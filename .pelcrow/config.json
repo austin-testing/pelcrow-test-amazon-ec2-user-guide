@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "repoId": "pelcrow-test-amazon-ec2-user-guide",
+  "metadataSchema": [
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string",
+      "required": true
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string",
+      "required": true
+    },
+    {
+      "key": "type",
+      "label": "Topic Type",
+      "type": "string",
+      "required": true,
+      "allowedValues": [
+        "concept",
+        "task",
+        "reference",
+        "troubleshooting"
+      ],
+      "description": "DITA topic type: concept (explanations/architecture), task (ordered procedures/how-tos), reference (APIs/schemas/tables), or troubleshooting (diagnosing and resolving a specific problem — condition, cause, and remedy)."
+    },
+    {
+      "key": "journeyStage",
+      "label": "Journey Stage",
+      "type": "string",
+      "required": true,
+      "description": "Where in the customer journey this topic sits (e.g. Evaluate, Plan, Build, Maintain). The organization's stage names are managed on the Content Gaps page, not here — this field just carries the value per topic."
+    },
+    {
+      "key": "useCases",
+      "label": "Use Cases",
+      "type": "string-list",
+      "required": true,
+      "description": "Which of this project's defined use cases this topic covers (see the project's Content Gaps page). Drives the demand-side coverage matrix — a topic with no use case tag is invisible to it."
+    },
+    {
+      "key": "audience",
+      "label": "Audience",
+      "type": "string",
+      "required": true
+    },
+    {
+      "key": "platform",
+      "label": "Platform",
+      "type": "string",
+      "required": true
+    }
+  ],
+  "factTaxonomy": {
+    "schemaVersion": 1,
+    "id": "org:product-scope",
+    "revision": 1,
+    "dimensions": [
+      {
+        "id": "product",
+        "label": "Product",
+        "cardinality": "one"
+      },
+      {
+        "id": "component",
+        "label": "Component",
+        "cardinality": "one",
+        "parentDimensionId": "product"
+      },
+      {
+        "id": "feature",
+        "label": "Feature",
+        "cardinality": "one",
+        "parentDimensionId": "product"
+      },
+      {
+        "id": "version",
+        "label": "Version",
+        "cardinality": "one",
+        "parentDimensionId": "product",
+        "comparison": "version-lineage"
+      },
+      {
+        "id": "platform",
+        "label": "Platform",
+        "cardinality": "many"
+      },
+      {
+        "id": "audience",
+        "label": "Audience",
+        "cardinality": "many"
+      }
+    ],
+    "enabledDimensions": [
+      "product",
+      "version",
+      "platform",
+      "audience"
+    ],
+    "hierarchies": [
+      {
+        "id": "product-version",
+        "dimensions": [
+          "product",
+          "version"
+        ],
+        "relationship": "PART_OF"
+      }
+    ],
+    "display": {
+      "path": [
+        "product"
+      ],
+      "qualifiers": [
+        "version",
+        "platform",
+        "audience"
+      ]
+    },
+    "bindings": {
+      "fields": {
+        "product": "product",
+        "version": "version",
+        "platform": "platform",
+        "audience": "audience"
+      },
+      "keyMetadataField": "fact-metadata",
+      "attributeField": "attribute",
+      "attributeLabelField": "attribute-label"
+    },
+    "repositoryOverrides": {}
+  },
+  "includePaths": [
+    "doc_source"
+  ],
+  "prePushValidation": true,
+  "provenancePolicy": "disabled",
+  "sourceLinkBases": {
+    "ticket": "https://rappadev.atlassian.net",
+    "commit": "https://github.com/austin-testing/pelcrow-test-amazon-ec2-user-guide",
+    "pr": "https://github.com/austin-testing/pelcrow-test-amazon-ec2-user-guide"
+  },
+  "severities": {},
+  "journeyStages": [
+    {
+      "name": "Evaluate",
+      "description": ""
+    },
+    {
+      "name": "Plan",
+      "description": ""
+    },
+    {
+      "name": "Build",
+      "description": ""
+    },
+    {
+      "name": "Maintain",
+      "description": ""
+    }
+  ],
+  "useCases": [],
+  "outputDirectory": "out",
+  "documentationFormat": "markdown",
+  "markdownProfile": {
+    "id": "gfm",
+    "version": "1",
+    "label": "Markdown",
+    "lineage": [
+      {
+        "id": "commonmark",
+        "version": "1"
+      },
+      {
+        "id": "gfm",
+        "version": "1"
+      }
+    ],
+    "syntax": [
+      "commonmark",
+      "gfm",
+      "frontmatter"
+    ],
+    "frontmatter": {
+      "accepted": [
+        "yaml"
+      ],
+      "defaultEncoding": "yaml"
+    },
+    "navigation": null,
+    "metadata": {},
+    "mappings": [],
+    "components": {},
+    "rules": {
+      "markdownlint": "honor-repo-config",
+      "pelcrow": [],
+      "gate": []
+    },
+    "writingRules": "markdown",
+    "identity": "d9beedb977de7b29df7a816429ab9f16053ccc67034416983833d2fe98fd5598"
+  },
+  "publicationVariables": [],
+  "defaultPublicationDirectory": ".",
+  "defaultTopicDirectory": "topics",
+  "defaultImageDirectory": "images"
+}
