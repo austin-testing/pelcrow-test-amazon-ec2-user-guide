@@ -182,6 +182,11 @@
       "name": "Launch",
       "category": "Infrastructure",
       "description": "Users creating, launching EC2 instances and accessing them"
+    },
+    {
+      "name": "Configure",
+      "category": "Infrastructure",
+      "description": "Users configuring EC2 instances and accessing them"
     }
   ],
   "outputDirectory": "out",
