@@ -192,6 +192,11 @@
       "name": "Automation",
       "category": "Infrastructure",
       "description": "Users automating EC2 infrastructure with launch templates and Infrastructure as Code"
+    },
+    {
+      "name": "Scaling",
+      "category": "Infrastructure",
+      "description": "Users scaling EC2 capacity with Auto Scaling and load balancing"
     }
   ],
   "outputDirectory": "out",
