@@ -207,6 +207,11 @@
       "name": "Patching",
       "category": "Operations",
       "description": "Users keeping EC2 instances patched and up to date"
+    },
+    {
+      "name": "Performance Optimization",
+      "category": "Operations",
+      "description": "Users tuning instance types, network performance, and storage for optimal efficiency"
     }
   ],
   "outputDirectory": "out",
