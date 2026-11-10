@@ -162,7 +162,13 @@
       "description": ""
     }
   ],
-  "useCases": [],
+  "useCases": [
+    {
+      "name": "Getting Started",
+      "category": "Adoption",
+      "description": "Users new to AWS/EC2 learning basic concepts and how EC2 differs from other compute options"
+    }
+  ],
   "outputDirectory": "out",
   "documentationFormat": "markdown",
   "markdownProfile": {
