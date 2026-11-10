@@ -172,6 +172,11 @@
       "name": "Migration Strategy",
       "category": "Adoption",
       "description": "Users planning workload migration to EC2 with lift-and-shift or modernization approaches"
+    },
+    {
+      "name": "Architecture Design",
+      "category": "Infrastructure",
+      "description": "Users designing EC2 infrastructure including instance selection, networking, and high availability"
     }
   ],
   "outputDirectory": "out",
