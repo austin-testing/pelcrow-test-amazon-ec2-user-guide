@@ -222,6 +222,11 @@
       "name": "Cost Planning",
       "category": "Governance",
       "description": "Users understanding pricing models and estimating costs for EC2 deployments"
+    },
+    {
+      "name": "Security",
+      "category": "Security",
+      "description": "Users securing EC2 instances with security best practices, IAM roles, encryption, and secrets management"
     }
   ],
   "outputDirectory": "out",
