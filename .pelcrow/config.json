@@ -227,6 +227,11 @@
       "name": "Security",
       "category": "Security",
       "description": "Users securing EC2 instances with security best practices, IAM roles, encryption, and secrets management"
+    },
+    {
+      "name": "Compliance",
+      "category": "Governance",
+      "description": "Users meeting compliance requirements and auditing their EC2 environment"
     }
   ],
   "outputDirectory": "out",
