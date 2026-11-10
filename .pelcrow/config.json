@@ -217,6 +217,11 @@
       "name": "Disaster Recovery",
       "category": "Operations",
       "description": "Users creating backup strategies, AMIs, and recovery procedures"
+    },
+    {
+      "name": "Cost Planning",
+      "category": "Governance",
+      "description": "Users understanding pricing models and estimating costs for EC2 deployments"
     }
   ],
   "outputDirectory": "out",
