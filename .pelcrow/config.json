@@ -167,6 +167,11 @@
       "name": "Getting Started",
       "category": "Adoption",
       "description": "Users new to AWS/EC2 learning basic concepts and how EC2 differs from other compute options"
+    },
+    {
+      "name": "Migration Strategy",
+      "category": "Adoption",
+      "description": "Users planning workload migration to EC2 with lift-and-shift or modernization approaches"
     }
   ],
   "outputDirectory": "out",
