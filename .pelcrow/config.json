@@ -144,6 +144,15 @@
     "pr": "https://github.com/austin-testing/pelcrow-test-amazon-ec2-user-guide"
   },
   "severities": {},
+  "storedMetadataKeys": [
+    "owner",
+    "type",
+    "journeyStage",
+    "useCases",
+    "audience",
+    "platform"
+  ],
+  "noFrontmatter": true,
   "journeyStages": [
     {
       "name": "Evaluate",
