@@ -202,6 +202,11 @@
       "name": "Monitoring",
       "category": "Operations",
       "description": "Users monitoring EC2 instances and collecting logs"
+    },
+    {
+      "name": "Patching",
+      "category": "Operations",
+      "description": "Users keeping EC2 instances patched and up to date"
     }
   ],
   "outputDirectory": "out",
