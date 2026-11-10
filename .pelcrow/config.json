@@ -212,6 +212,11 @@
       "name": "Performance Optimization",
       "category": "Operations",
       "description": "Users tuning instance types, network performance, and storage for optimal efficiency"
+    },
+    {
+      "name": "Disaster Recovery",
+      "category": "Operations",
+      "description": "Users creating backup strategies, AMIs, and recovery procedures"
     }
   ],
   "outputDirectory": "out",
