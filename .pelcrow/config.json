@@ -177,6 +177,11 @@
       "name": "Architecture Design",
       "category": "Infrastructure",
       "description": "Users designing EC2 infrastructure including instance selection, networking, and high availability"
+    },
+    {
+      "name": "Launch",
+      "category": "Infrastructure",
+      "description": "Users creating, launching EC2 instances and accessing them"
     }
   ],
   "outputDirectory": "out",
