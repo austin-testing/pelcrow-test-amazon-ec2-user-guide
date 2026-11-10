@@ -197,6 +197,11 @@
       "name": "Scaling",
       "category": "Infrastructure",
       "description": "Users scaling EC2 capacity with Auto Scaling and load balancing"
+    },
+    {
+      "name": "Monitoring",
+      "category": "Operations",
+      "description": "Users monitoring EC2 instances and collecting logs"
     }
   ],
   "outputDirectory": "out",
