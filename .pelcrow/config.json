@@ -187,6 +187,11 @@
       "name": "Configure",
       "category": "Infrastructure",
       "description": "Users configuring EC2 instances and accessing them"
+    },
+    {
+      "name": "Automation",
+      "category": "Infrastructure",
+      "description": "Users automating EC2 infrastructure with launch templates and Infrastructure as Code"
     }
   ],
   "outputDirectory": "out",
