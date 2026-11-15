@@ -197,6 +197,11 @@
       "name": "Launch",
       "category": "Infrastructure",
       "description": "Users launching EC2 instances and connecting to them"
+    },
+    {
+      "name": "Configure",
+      "category": "Infrastructure",
+      "description": "Users configuring instances after launch, including security groups, initialization, and instance settings"
     }
   ],
   "outputDirectory": "out",
