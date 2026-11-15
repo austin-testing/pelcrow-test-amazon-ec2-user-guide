@@ -159,15 +159,6 @@
     "pr": "https://github.com/austin-testing/pelcrow-test-amazon-ec2-user-guide"
   },
   "severities": {},
-  "storedMetadataKeys": [
-    "owner",
-    "type",
-    "journeyStage",
-    "useCases",
-    "audience",
-    "platform"
-  ],
-  "noFrontmatter": true,
   "journeyStages": [
     {
       "name": "Evaluate",
@@ -186,78 +177,7 @@
       "description": ""
     }
   ],
-  "useCases": [
-    {
-      "name": "Getting Started",
-      "category": "Adoption",
-      "description": "Users new to AWS/EC2 learning basic concepts and how EC2 differs from other compute options"
-    },
-    {
-      "name": "Migration Strategy",
-      "category": "Adoption",
-      "description": "Users planning workload migration to EC2 with lift-and-shift or modernization approaches"
-    },
-    {
-      "name": "Architecture Design",
-      "category": "Infrastructure",
-      "description": "Users designing EC2 infrastructure including instance selection, networking, and high availability"
-    },
-    {
-      "name": "Launch",
-      "category": "Infrastructure",
-      "description": "Users creating, launching EC2 instances and accessing them"
-    },
-    {
-      "name": "Configure",
-      "category": "Infrastructure",
-      "description": "Users configuring EC2 instances and accessing them"
-    },
-    {
-      "name": "Automation",
-      "category": "Infrastructure",
-      "description": "Users automating EC2 infrastructure with launch templates and Infrastructure as Code"
-    },
-    {
-      "name": "Scaling",
-      "category": "Infrastructure",
-      "description": "Users scaling EC2 capacity with Auto Scaling and load balancing"
-    },
-    {
-      "name": "Monitoring",
-      "category": "Operations",
-      "description": "Users monitoring EC2 instances and collecting logs"
-    },
-    {
-      "name": "Patching",
-      "category": "Operations",
-      "description": "Users keeping EC2 instances patched and up to date"
-    },
-    {
-      "name": "Performance Optimization",
-      "category": "Operations",
-      "description": "Users tuning instance types, network performance, and storage for optimal efficiency"
-    },
-    {
-      "name": "Disaster Recovery",
-      "category": "Operations",
-      "description": "Users creating backup strategies, AMIs, and recovery procedures"
-    },
-    {
-      "name": "Cost Planning",
-      "category": "Governance",
-      "description": "Users understanding pricing models and estimating costs for EC2 deployments"
-    },
-    {
-      "name": "Security",
-      "category": "Security",
-      "description": "Users securing EC2 instances with security best practices, IAM roles, encryption, and secrets management"
-    },
-    {
-      "name": "Compliance",
-      "category": "Governance",
-      "description": "Users meeting compliance requirements and auditing their EC2 environment"
-    }
-  ],
+  "useCases": [],
   "outputDirectory": "out",
   "documentationFormat": "markdown",
   "markdownProfile": {
