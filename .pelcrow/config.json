@@ -148,9 +148,7 @@
     },
     "repositoryOverrides": {}
   },
-  "includePaths": [
-    "doc_source"
-  ],
+  "includePaths": [],
   "prePushValidation": true,
   "provenancePolicy": "disabled",
   "sourceLinkBases": {
