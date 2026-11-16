@@ -1,3 +1,13 @@
+---
+title: "Instance identity documents"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Instance identity documents<a name="instance-identity-documents"></a>
 
 Each instance that you launch has an instance identity document that provides information about the instance itself\. You can use the instance identity document to validate the attributes of the instance\.

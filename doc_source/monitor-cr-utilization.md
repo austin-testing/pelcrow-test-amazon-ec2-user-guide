@@ -1,3 +1,13 @@
+---
+title: "Utilization notifications"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Utilization notifications<a name="monitor-cr-utilization"></a>
 
 AWS Health sends the following email and AWS Health Dashboard notifications when capacity utilization for Capacity Reservations in your account drops below 20 percent\.

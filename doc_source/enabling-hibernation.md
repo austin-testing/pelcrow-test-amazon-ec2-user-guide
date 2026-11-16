@@ -1,3 +1,13 @@
+---
+title: "Enable hibernation for an instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Enable hibernation for an instance<a name="enabling-hibernation"></a>
 
 To hibernate an instance, you must first enable it for hibernation while launching the instance\.

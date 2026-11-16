@@ -1,3 +1,13 @@
+---
+title: "Guidelines and best practices for archiving snapshots"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Guidelines and best practices for archiving snapshots<a name="archiving-guidelines"></a>
 
 This section provides some guidelines and best practices for archiving snapshots\.

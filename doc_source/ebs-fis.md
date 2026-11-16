@@ -1,3 +1,13 @@
+---
+title: "Fault testing on Amazon EBS"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Fault testing on Amazon EBS<a name="ebs-fis"></a>
 
 Use AWS Fault Injection Simulator and the Pause I/O action to temporarily stop I/O between an Amazon EBS volume and the instances to which it is attached to test how your workloads handle I/O interruptions\. With AWS FIS, you can use controlled experiments to test your architecture and monitoring, such as Amazon CloudWatch alarms and OS timeout configurations, and improve resiliency to storage faults\.

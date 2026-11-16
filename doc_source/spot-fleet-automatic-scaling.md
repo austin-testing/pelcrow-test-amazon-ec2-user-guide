@@ -1,3 +1,13 @@
+---
+title: "Automatic scaling for Spot Fleet"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Automation","Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","Auto Scaling"]
+---
+
 # Automatic scaling for Spot Fleet<a name="spot-fleet-automatic-scaling"></a>
 
 *Automatic scaling* is the ability to increase or decrease the target capacity of your Spot Fleet automatically based on demand\. A Spot Fleet can either launch instances \(scale out\) or terminate instances \(scale in\), within the range that you choose, in response to one or more scaling policies\.

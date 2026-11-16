@@ -1,3 +1,13 @@
+---
+title: "Create a launch template"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Create a launch template<a name="create-launch-template"></a>
 
 Create a new launch template using parameters that you define, or use an existing launch template or an instance as the basis for a new launch template\.

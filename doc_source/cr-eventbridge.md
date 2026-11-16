@@ -1,3 +1,13 @@
+---
+title: "Monitor Capacity Reservations using EventBridge"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Monitor Capacity Reservations using EventBridge<a name="cr-eventbridge"></a>
 
 AWS Health sends events to Amazon EventBridge when a Capacity Reservation in your account is below 20 percent usage over certain periods\. With EventBridge, you can establish rules that trigger programmatic actions in response to such events\. For example, you can create a rule that automatically cancels a Capacity Reservation when its utilization drops below 20 percent utilization over a 7\-day period\.

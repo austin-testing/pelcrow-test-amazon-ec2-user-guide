@@ -1,3 +1,13 @@
+---
+title: "How Spot Instances work"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # How Spot Instances work<a name="how-spot-instances-work"></a>
 
 To launch a Spot Instance, either you create a *Spot Instance request*, or Amazon EC2 creates a Spot Instance request on your behalf\. The Spot Instance launches when the Spot Instance request is fulfilled\.

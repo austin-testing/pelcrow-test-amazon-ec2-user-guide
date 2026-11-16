@@ -1,3 +1,13 @@
+---
+title: "Set the time for your Linux instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Set the time for your Linux instance<a name="set-time"></a>
 
 A consistent and accurate time reference is crucial for many server tasks and processes\. Most system logs include a time stamp that you can use to determine when problems occurred and in what order the events took place\. If you use the AWS CLI or an AWS SDK to make requests from your instance, these tools sign requests on your behalf\. If your instance's date and time are not set correctly, the date in the signature might not match the date of the request, and AWS rejects the request\.

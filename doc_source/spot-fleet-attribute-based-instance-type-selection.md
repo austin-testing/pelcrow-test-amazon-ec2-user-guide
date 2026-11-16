@@ -1,3 +1,13 @@
+---
+title: "Attribute-based instance type selection for Spot Fleet"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Scaling","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Attribute\-based instance type selection for Spot Fleet<a name="spot-fleet-attribute-based-instance-type-selection"></a>
 
 When you create a Spot Fleet, you must specify one or more instance types for configuring the On\-Demand Instances and Spot Instances in the fleet\. As an alternative to manually specifying the instance types, you can specify the attributes that an instance must have, and Amazon EC2 will identify all the instance types with those attributes\. This is known as *attribute\-based instance type selection*\. For example, you can specify the minimum and maximum number of vCPUs required for your instances, and Spot Fleet will launch the instances using any available instance types that meet those vCPU requirements\. 

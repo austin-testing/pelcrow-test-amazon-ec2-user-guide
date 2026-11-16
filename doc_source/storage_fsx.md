@@ -1,3 +1,13 @@
+---
+title: "Use Amazon FSx with Amazon EC2"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Use Amazon FSx with Amazon EC2<a name="storage_fsx"></a>
 
 The Amazon FSx family of services makes it easy to launch, run, and scale shared storage powered by popular commercial and open\-source file systems\. You can use the *new launch instance wizard* to automatically attach the following types of Amazon FSx file systems to your Amazon EC2 instances at launch:

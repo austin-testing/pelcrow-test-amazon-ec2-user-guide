@@ -1,3 +1,13 @@
+---
+title: "Scheduled events for your instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Scheduled events for your instances<a name="monitoring-instances-status-check_sched"></a>
 
 AWS can schedule events for your instances, such as a reboot, stop/start, or retirement\. These events do not occur frequently\. If one of your instances will be affected by a scheduled event, AWS sends an email to the email address that's associated with your AWS account prior to the scheduled event\. The email provides details about the event, including the start and end date\. Depending on the event, you might be able to take action to control the timing of the event\. AWS also sends an AWS Health event, which you can monitor and manage by using Amazon CloudWatch Events\. For more information about monitoring AWS Health events with CloudWatch, see [Monitoring AWS Health events with CloudWatch Events](https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html)\. 

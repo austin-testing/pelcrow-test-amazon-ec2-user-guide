@@ -1,3 +1,13 @@
+---
+title: "Monitor your policies using CloudWatch Events"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","CloudWatch"]
+---
+
 # Monitor your policies using CloudWatch Events<a name="monitor-cloudwatch-events"></a>
 
 Amazon EBS and Amazon Data Lifecycle Manager emit events related to lifecycle policy actions\. You can use AWS Lambda and Amazon CloudWatch Events to handle event notifications programmatically\. Events are emitted on a best effort basis\. For more information, see the [Amazon CloudWatch Events User Guide](https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/)\.

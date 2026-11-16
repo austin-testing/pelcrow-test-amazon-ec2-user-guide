@@ -1,3 +1,13 @@
+---
+title: "Attach an Amazon EBS volume to an instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Attach an Amazon EBS volume to an instance<a name="ebs-attaching-volume"></a>
 
 You can attach an available EBS volume to one or more of your instances that is in the same Availability Zone as the volume\.

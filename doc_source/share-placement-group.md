@@ -1,3 +1,13 @@
+---
+title: "Share a placement group"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Networking"]
+---
+
 # Share a placement group<a name="share-placement-group"></a>
 
 Placement group sharing allows you to influence the placement of interdependent instances that are owned by separate AWS accounts\. You can share a placement group across multiple AWS accounts or within your AWS Organizations\. You can launch instances in a shared placement group\.

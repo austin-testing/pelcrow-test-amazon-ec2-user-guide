@@ -1,3 +1,13 @@
+---
+title: "Deprecated: Collect metrics using the CloudWatch monitoring scripts"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","CloudWatch"]
+---
+
 # Deprecated: Collect metrics using the CloudWatch monitoring scripts<a name="monitoring-scripts-intro"></a>
 
 **Important**  

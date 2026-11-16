@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot changing the instance type"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Troubleshoot changing the instance type<a name="troubleshoot-change-instance-type"></a>
 
 Use the following information to help diagnose and fix issues that you might encounter when changing the instance type\.

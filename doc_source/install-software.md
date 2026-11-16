@@ -1,3 +1,13 @@
+---
+title: "Install software packages on an Amazon Linux instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Install software packages on an Amazon Linux instance<a name="install-software"></a>
 
 The yum package manager is a great tool for installing software, because it can search all of your enabled repositories for different software packages and also handle any dependencies in the software installation process\.

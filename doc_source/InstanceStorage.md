@@ -1,3 +1,13 @@
+---
+title: "Amazon EC2 instance store"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Storage"]
+---
+
 # Amazon EC2 instance store<a name="InstanceStorage"></a>
 
 An *instance store* provides temporary block\-level storage for your instance\. This storage is located on disks that are physically attached to the host computer\. Instance store is ideal for temporary storage of information that changes frequently, such as buffers, caches, scratch data, and other temporary content\. It can also be used to store temporary data that you replicate across a fleet of instances, such as a load\-balanced pool of web servers\.

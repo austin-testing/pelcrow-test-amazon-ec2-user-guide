@@ -1,3 +1,13 @@
+---
+title: "General purpose instances"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # General purpose instances<a name="general-purpose-instances"></a>
 
 General purpose instances provide a balance of compute, memory, and networking resources, and can be used for a wide range of workloads\.

@@ -1,3 +1,13 @@
+---
+title: "Use Signature Version 4 signing"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Storage"]
+---
+
 # Use Signature Version 4 signing<a name="ebsapis-using-sigv4"></a>
 
 Signature Version 4 is the process to add authentication information to AWS requests sent by HTTP\. For security, most requests to AWS must be signed with an access key, which consists of an access key ID and secret access key\. These two keys are commonly referred to as your security credentials\. For information about how to obtain credentials for your account, see [Understanding and getting your credentials](https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html)\.

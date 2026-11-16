@@ -1,3 +1,13 @@
+---
+title: "Work with Dedicated Instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Work with Dedicated Instances<a name="dedicated-usage-overview"></a>
 
 You can create a VPC with an instance tenancy of `dedicated` to ensure that all instances launched into the VPC are Dedicated Instances\. Alternatively, you can specify the tenancy of the instance during launch\. 

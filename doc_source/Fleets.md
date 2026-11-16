@@ -1,3 +1,13 @@
+---
+title: "EC2 Fleet and Spot Fleet"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # EC2 Fleet and Spot Fleet<a name="Fleets"></a>
 
 You can use an EC2 Fleet or a Spot Fleet to launch a fleet of instances\. In a single API call, a fleet can launch multiple instance types across multiple Availability Zones, using the On\-Demand Instance, Reserved Instance, and Spot Instance purchasing options together\.

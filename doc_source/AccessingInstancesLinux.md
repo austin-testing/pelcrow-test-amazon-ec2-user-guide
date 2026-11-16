@@ -1,3 +1,13 @@
+---
+title: "Connect to your Linux instance using SSH"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Connect to your Linux instance using SSH<a name="AccessingInstancesLinux"></a>
 
 After you launch your instance, you can connect to it and use it the way that you'd use a computer sitting in front of you\.

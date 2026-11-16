@@ -1,3 +1,13 @@
+---
+title: "Attestation with AMD SEV-SNP"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Attestation with AMD SEV\-SNP<a name="snp-attestation"></a>
 
 Attestation is a process that allows your instance to prove its state and identity\. When you turn on AMD SEV\-SNP for your instance, you can request an AMD SEV\-SNP attestation report from the underlying processor\. The AMD SEV\-SNP attestation report contains a cryptographic hash, called the launch measurement, of the initial guest memory contents and initial vCPU state\. The attestation report is signed with a VLEK signature that chains back to an AMD root of trust\. You can use the launch measurement included in the attestation report to validate that the instance is running in a genuine AMD environment and to validate the initial boot code that was used to launch the instance\.

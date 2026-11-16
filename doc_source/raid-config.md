@@ -1,3 +1,13 @@
+---
+title: "RAID configuration on Linux"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # RAID configuration on Linux<a name="raid-config"></a>
 
 With Amazon EBS, you can use any of the standard RAID configurations that you can use with a traditional bare metal server, as long as that particular RAID configuration is supported by the operating system for your instance\. This is because all RAID is accomplished at the software level\. 

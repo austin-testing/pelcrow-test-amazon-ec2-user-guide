@@ -1,3 +1,13 @@
+---
+title: "Delete an Amazon EBS snapshot"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Delete an Amazon EBS snapshot<a name="ebs-deleting-snapshot"></a>
 
 After you no longer need an Amazon EBS snapshot of a volume, you can delete it\. Deleting a snapshot has no effect on the volume\. Deleting a volume has no effect on the snapshots made from it\.

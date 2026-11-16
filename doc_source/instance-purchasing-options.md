@@ -1,3 +1,13 @@
+---
+title: "Instance purchasing options"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Instance purchasing options<a name="instance-purchasing-options"></a>
 
 Amazon EC2 provides the following purchasing options to enable you to optimize your costs based on your needs:

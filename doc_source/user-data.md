@@ -1,3 +1,13 @@
+---
+title: "Run commands on your Linux instance at launch"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation","Launch"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","Linux"]
+---
+
 # Run commands on your Linux instance at launch<a name="user-data"></a>
 
 When you launch an instance in Amazon EC2, you have the option of passing user data to the instance that can be used to perform common automated configuration tasks and even run scripts after the instance starts\. You can pass two types of user data to Amazon EC2: shell scripts and cloud\-init directives\. You can also pass this data into the launch instance wizard as plain text, as a file \(this is useful for launching instances using the command line tools\), or as base64\-encoded text \(for API calls\)\.

@@ -1,3 +1,13 @@
+---
+title: "Create key pairs"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Create key pairs<a name="create-key-pairs"></a>
 
 You can use Amazon EC2 to create an RSA or ED25519 key pair, or you can use a third\-party tool to create a key pair and then import the public key to Amazon EC2\.

@@ -1,3 +1,13 @@
+---
+title: "EC2 Fleet"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # EC2 Fleet<a name="ec2-fleet"></a>
 
 An *EC2 Fleet* contains the configuration information to launch a fleet—or group—of instances\. In a single API call, a fleet can launch multiple instance types across multiple Availability Zones, using the On\-Demand Instance, Reserved Instance, and Spot Instance purchasing options together\. Using EC2 Fleet, you can:

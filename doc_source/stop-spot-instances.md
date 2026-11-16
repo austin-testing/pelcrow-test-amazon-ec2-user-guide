@@ -1,3 +1,13 @@
+---
+title: "Stop interrupted Spot Instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Stop interrupted Spot Instances<a name="stop-spot-instances"></a>
 
 You can specify that Amazon EC2 stops your Spot Instances when they are interrupted\. For more information, see [Specify the interruption behavior](interruption-behavior.md#specifying-spot-interruption-behavior)\.

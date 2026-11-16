@@ -1,3 +1,13 @@
+---
+title: "Boot modes"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","AMI"]
+---
+
 # Boot modes<a name="ami-boot"></a>
 
 When a computer boots, the first software that it runs is responsible for initializing the platform and providing an interface for the operating system to perform platform\-specific operations\.

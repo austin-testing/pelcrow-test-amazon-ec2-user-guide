@@ -1,3 +1,13 @@
+---
+title: "Spot Fleet configuration strategies"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Spot Fleet configuration strategies<a name="how-spot-fleet-works"></a>
 
 A *Spot Fleet* is a collection, or fleet, of Spot Instances, and optionally On\-Demand Instances\. 

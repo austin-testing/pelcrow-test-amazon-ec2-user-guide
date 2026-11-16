@@ -1,3 +1,13 @@
+---
+title: "Work with instance user data"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","Linux"]
+---
+
 # Work with instance user data<a name="instancedata-add-user-data"></a>
 
 When working with instance user data, keep the following in mind:

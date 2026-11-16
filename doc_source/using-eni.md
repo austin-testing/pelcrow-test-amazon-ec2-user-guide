@@ -1,3 +1,13 @@
+---
+title: "Elastic network interfaces"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Networking"]
+---
+
 # Elastic network interfaces<a name="using-eni"></a>
 
 An *elastic network interface* is a logical networking component in a VPC that represents a virtual network card\. It can include the following attributes:

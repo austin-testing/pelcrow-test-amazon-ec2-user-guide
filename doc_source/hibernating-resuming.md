@@ -1,3 +1,13 @@
+---
+title: "Start a hibernated instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Start a hibernated instance<a name="hibernating-resuming"></a>
 
 Start a hibernated instance by starting it in the same way that you would start a stopped instance\.

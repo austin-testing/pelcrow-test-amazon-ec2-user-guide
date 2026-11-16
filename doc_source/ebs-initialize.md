@@ -1,3 +1,13 @@
+---
+title: "Initialize Amazon EBS volumes"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Initialize Amazon EBS volumes<a name="ebs-initialize"></a>
 
 Empty EBS volumes receive their maximum performance the moment that they are created and do not require initialization \(formerly known as pre\-warming\)\.

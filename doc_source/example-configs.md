@@ -1,3 +1,13 @@
+---
+title: "Example Capacity Reservation Fleet configurations"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Example Capacity Reservation Fleet configurations<a name="example-configs"></a>
 
 **Topics**

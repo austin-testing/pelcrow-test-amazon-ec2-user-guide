@@ -1,3 +1,13 @@
+---
+title: "Identify EC2 Linux instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Identify EC2 Linux instances<a name="identify_ec2_instances"></a>
 
 You might need to determine whether your application is running on an EC2 instance\.

@@ -1,3 +1,13 @@
+---
+title: "Host recovery"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Host recovery<a name="dedicated-hosts-recovery"></a>
 
 Dedicated Host auto recovery restarts your instances on to a new replacement host when certain problematic conditions are detected on your Dedicated Host\. Host recovery reduces the need for manual intervention and lowers the operational burden if there is an unexpected Dedicated Host failure concerning system power or network connectivity events\. Other Dedicated Host issues will require manual intervention to recover from\. 

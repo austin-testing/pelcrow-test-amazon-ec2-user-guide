@@ -1,3 +1,13 @@
+---
+title: "Sell in the Reserved Instance Marketplace"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Sell in the Reserved Instance Marketplace<a name="ri-market-general"></a>
 
 The Reserved Instance Marketplace is a platform that supports the sale of third\-party and AWS customers' unused Standard Reserved Instances, which vary in term lengths and pricing options\. For example, you might want to sell Reserved Instances after moving instances to a new AWS Region, changing to a new instance type, ending projects before the term expiration, when your business needs change, or if you have unneeded capacity\.

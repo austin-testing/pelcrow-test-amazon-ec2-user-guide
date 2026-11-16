@@ -1,3 +1,13 @@
+---
+title: "Create an Amazon EBS-backed Linux AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage","AMI"]
+---
+
 # Create an Amazon EBS\-backed Linux AMI<a name="creating-an-ami-ebs"></a>
 
 To create an Amazon EBS\-backed Linux AMI, start from an instance that you've launched from an existing Amazon EBS\-backed Linux AMI\. This can be an AMI you have obtained from the AWS Marketplace, an AMI you have created using the [AWS Server Migration Service](https://aws.amazon.com/server-migration-service/) or [VM Import/Export](https://docs.aws.amazon.com/vm-import/latest/userguide/what-is-vmimport.html), or any other AMI you can access\. After you customize the instance to suit your needs, create and register a new AMI, which you can use to launch new instances with these customizations\.

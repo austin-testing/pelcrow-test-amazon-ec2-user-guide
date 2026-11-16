@@ -1,3 +1,13 @@
+---
+title: "Hibernate an instance"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Hibernate an instance<a name="hibernating-instances"></a>
 
 You can hibernate an instance if the instance is [enabled for hibernation](enabling-hibernation.md) and meets the [hibernation prerequisites](hibernating-prerequisites.md)\. If an instance cannot hibernate successfully, a normal shutdown occurs\.

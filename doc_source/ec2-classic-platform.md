@@ -1,3 +1,13 @@
+---
+title: "EC2-Classic"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # EC2\-Classic<a name="ec2-classic-platform"></a>
 
 

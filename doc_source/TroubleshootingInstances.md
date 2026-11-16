@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot instances with failed status checks"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Troubleshoot instances with failed status checks<a name="TroubleshootingInstances"></a>
 
 The following information can help you troubleshoot issues if your instance fails a status check\. First determine whether your applications are exhibiting any problems\. If you verify that the instance is not running your applications as expected, review the status check information and the system logs\.

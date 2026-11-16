@@ -1,3 +1,13 @@
+---
+title: "Describe public keys"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Describe public keys<a name="describe-keys"></a>
 
 You can describe the public keys that are stored in Amazon EC2\. You can also retrieve the public key material and identify the public key that was specified at launch\.

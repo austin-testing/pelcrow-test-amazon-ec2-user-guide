@@ -1,3 +1,13 @@
+---
+title: "Install NVIDIA drivers on Linux instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Install NVIDIA drivers on Linux instances<a name="install-nvidia-driver"></a>
 
 An instance with an attached NVIDIA GPU, such as a P3 or G4dn instance, must have the appropriate NVIDIA driver installed\. Depending on the instance type, you can either download a public NVIDIA driver, download a driver from Amazon S3 that is available only to AWS customers, or use an AMI with the driver pre\-installed\.

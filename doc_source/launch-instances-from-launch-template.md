@@ -1,3 +1,13 @@
+---
+title: "Launch instances from a launch template"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Launch instances from a launch template<a name="launch-instances-from-launch-template"></a>
 
 Launch templates are supported by several instance launch services\. This topic describes how to use a launch template when launching an instance using the EC2 launch instance wizard, Amazon EC2 Auto Scaling, EC2 Fleet, and Spot Fleet\.

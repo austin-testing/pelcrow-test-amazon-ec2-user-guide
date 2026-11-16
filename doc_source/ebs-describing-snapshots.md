@@ -1,3 +1,13 @@
+---
+title: "View Amazon EBS snapshot information"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # View Amazon EBS snapshot information<a name="ebs-describing-snapshots"></a>
 
 You can view detailed information about your snapshots using one of the following methods\.

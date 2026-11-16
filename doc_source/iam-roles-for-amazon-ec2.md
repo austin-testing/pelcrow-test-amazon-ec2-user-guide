@@ -1,3 +1,13 @@
+---
+title: "IAM roles for Amazon EC2"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","IAM"]
+---
+
 # IAM roles for Amazon EC2<a name="iam-roles-for-amazon-ec2"></a>
 
 Applications must sign their API requests with AWS credentials\. Therefore, if you are an application developer, you need a strategy for managing credentials for your applications that run on EC2 instances\. For example, you can securely distribute your AWS credentials to the instances, enabling the applications on those instances to use your credentials to sign requests, while protecting your credentials from other users\. However, it's challenging to securely distribute credentials to each instance, especially those that AWS creates on your behalf, such as Spot Instances or instances in Auto Scaling groups\. You must also be able to update the credentials on each instance when you rotate your AWS credentials\.

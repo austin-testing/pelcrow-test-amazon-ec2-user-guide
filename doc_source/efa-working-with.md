@@ -1,3 +1,13 @@
+---
+title: "Work with EFA"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # Work with EFA<a name="efa-working-with"></a>
 
 You can create, use, and manage an EFA much like any other elastic network interface in Amazon EC2\. However, unlike elastic network interfaces, EFAs cannot be attached to or detached from an instance in a running state\.

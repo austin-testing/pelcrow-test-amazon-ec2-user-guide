@@ -1,3 +1,13 @@
+---
+title: "Spot price overrides"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Spot price overrides<a name="spot-price-overrides"></a>
 
 Each Spot Fleet request can include a global maximum price, or use the default \(the On\-Demand price\)\. Spot Fleet uses this as the default maximum price for each of its launch specifications\.

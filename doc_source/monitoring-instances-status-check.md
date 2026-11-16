@@ -1,3 +1,13 @@
+---
+title: "Monitor the status of your instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Monitor the status of your instances<a name="monitoring-instances-status-check"></a>
 
 You can monitor the status of your instances by viewing status checks and scheduled events for your instances\.

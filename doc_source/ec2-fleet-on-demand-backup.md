@@ -1,3 +1,13 @@
+---
+title: "Configure EC2 Fleet for On-Demand backup"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery","Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Configure EC2 Fleet for On\-Demand backup<a name="ec2-fleet-on-demand-backup"></a>
 
 If you have urgent, unpredictable scaling needs, such as a news website that must scale during a major news event or game launch, we recommend that you specify alternative instance types for your On\-Demand Instances, in the event that your preferred option does not have sufficient available capacity\. For example, you might prefer `c5.2xlarge` On\-Demand Instances, but if there is insufficient available capacity, you'd be willing to use some `c4.2xlarge` instances during peak load\. In this case, EC2 Fleet attempts to fulfill all of your target capacity using `c5.2xlarge` instances, but if there is insufficient capacity, it automatically launches `c4.2xlarge` instances to fulfill the target capacity\.

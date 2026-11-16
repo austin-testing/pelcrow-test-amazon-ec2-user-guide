@@ -1,3 +1,13 @@
+---
+title: "Spot Fleet event types"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Spot Fleet event types<a name="spot-fleet-event-types"></a>
 
 There are five Spot Fleet event types\. For each event type, there are several sub\-types\.

@@ -1,3 +1,13 @@
+---
+title: "Create three key pairs"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Create three key pairs<a name="uefi-secure-boot-create-three-key-pairs"></a>
 
 UEFI Secure Boot is based on the following three key databases, which are used in a chain of trust: the platform key \(PK\), the key exchange key \(KEK\), and the signature database \(db\)\.¹

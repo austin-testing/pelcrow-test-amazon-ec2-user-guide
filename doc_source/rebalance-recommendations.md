@@ -1,3 +1,13 @@
+---
+title: "EC2 instance rebalance recommendations"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # EC2 instance rebalance recommendations<a name="rebalance-recommendations"></a>
 
 An EC2 instance *rebalance recommendation* is a signal that notifies you when a Spot Instance is at elevated risk of interruption\. The signal can arrive sooner than the [two\-minute Spot Instance interruption notice](spot-instance-termination-notices.md), giving you the opportunity to proactively manage the Spot Instance\. You can decide to rebalance your workload to new or existing Spot Instances that are not at an elevated risk of interruption\.

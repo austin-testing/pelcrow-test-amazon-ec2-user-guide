@@ -1,3 +1,13 @@
+---
+title: "Task 3: Automatically connect your EC2 instance to your RDS database"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Automation","Launch"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Task 3: Automatically connect your EC2 instance to your RDS database<a name="option1-task3-connect-ec2-instance-to-rds-database"></a>
 
 ## Task objective<a name="option1-task3-connect-ec2-instance-to-rds-database-objective"></a>

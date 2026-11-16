@@ -1,3 +1,13 @@
+---
+title: "Configure the instance metadata options"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Configure the instance metadata options<a name="configuring-instance-metadata-options"></a>
 
 Instance metadata options allow you to configure new or existing instances to do the following:

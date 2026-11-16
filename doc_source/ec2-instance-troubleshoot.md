@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot EC2 instances"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Troubleshoot EC2 instances<a name="ec2-instance-troubleshoot"></a>
 
 The following documentation can help you troubleshoot problems that you might have with your instance\.

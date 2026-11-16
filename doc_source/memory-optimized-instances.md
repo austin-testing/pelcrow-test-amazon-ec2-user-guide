@@ -1,3 +1,13 @@
+---
+title: "Memory optimized instances"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Memory optimized instances<a name="memory-optimized-instances"></a>
 
 Memory optimized instances are designed to deliver fast performance for workloads that process large data sets in memory\.

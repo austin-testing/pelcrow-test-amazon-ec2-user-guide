@@ -1,3 +1,13 @@
+---
+title: "Connect to your Linux instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Connect to your Linux instance<a name="AccessingInstances"></a>
 
 This section of the *Amazon EC2 User Guide* provides information about how to connect to a Linux instance after you have launched it, and how to transfer files between your local computer and your instance\.

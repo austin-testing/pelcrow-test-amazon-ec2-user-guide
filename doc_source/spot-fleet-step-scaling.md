@@ -1,3 +1,13 @@
+---
+title: "Scale Spot Fleet using step scaling policies"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","Auto Scaling"]
+---
+
 # Scale Spot Fleet using step scaling policies<a name="spot-fleet-step-scaling"></a>
 
 With step scaling policies, you specify CloudWatch alarms to trigger the scaling process\. For example, if you want to scale out when CPU utilization reaches a certain level, create an alarm using the `CPUUtilization` metric provided by Amazon EC2\.

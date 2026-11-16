@@ -1,3 +1,13 @@
+---
+title: "Amazon EBS volume types"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Amazon EBS volume types<a name="ebs-volume-types"></a>
 
 Amazon EBS provides the following volume types, which differ in performance characteristics and price, so that you can tailor your storage performance and cost to the needs of your applications\. 

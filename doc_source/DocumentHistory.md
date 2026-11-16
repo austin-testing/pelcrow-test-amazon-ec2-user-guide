@@ -1,3 +1,13 @@
+---
+title: "Document history"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Document history<a name="DocumentHistory"></a>
 
 The following table describes important additions to the Amazon EC2 documentation starting in 2019\. We also update the documentation frequently to address the feedback that you send us\.

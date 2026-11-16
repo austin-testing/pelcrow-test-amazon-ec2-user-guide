@@ -1,3 +1,13 @@
+---
+title: "View information about an Amazon EBS volume"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # View information about an Amazon EBS volume<a name="ebs-describing-volumes"></a>
 
 You can view descriptive information about your EBS volumes\. For example, you can view information about all volumes in a specific Region or view detailed information about a single volume, including its size, volume type, whether the volume is encrypted, which master key was used to encrypt the volume, and the specific instance to which the volume is attached\.

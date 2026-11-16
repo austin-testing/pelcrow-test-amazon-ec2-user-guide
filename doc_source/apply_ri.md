@@ -1,3 +1,13 @@
+---
+title: "How Reserved Instances are applied"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # How Reserved Instances are applied<a name="apply_ri"></a>
 
 Reserved Instances are not physical instances, but rather a billing discount that is applied to the running On\-Demand Instances in your account\. The On\-Demand Instances must match certain specifications of the Reserved Instances in order to benefit from the billing discount\.

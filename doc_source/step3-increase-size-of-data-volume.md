@@ -1,3 +1,13 @@
+---
+title: "Step 3: Increase the size of the data volume"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Step 3: Increase the size of the data volume<a name="step3-increase-size-of-data-volume"></a>
 
 Suppose after six months of using the above configuration you run out of storage space on your data volume\. You decide to double the size of your data volume\. To do this, first you create a snapshot, and then you increase the size of the data volume\. When you create a snapshot, use a description to identify the snapshot\. In this tutorial you create a snapshot called `tutorial-volumes-backup`\.

@@ -1,3 +1,13 @@
+---
+title: "Requirements"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Requirements<a name="snp-requirements"></a>
 
 To use AMD SEV\-SNP, you must do the following:

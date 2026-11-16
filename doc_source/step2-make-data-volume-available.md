@@ -1,3 +1,13 @@
+---
+title: "Step 2: Make the data volume available for use"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Step 2: Make the data volume available for use<a name="step2-make-data-volume-available"></a>
 
 The Amazon EC2 instance launched in [Step 1](step1-launch-instance-with-ebs-volume.md) has two EBS volumes—a root device and an added storage device \(the data volume\)\. Use the following procedure to make the data volume available for use\. In this tutorial, you use the XFS file system\.

@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot instance launch issues"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Launch"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Troubleshoot instance launch issues<a name="troubleshooting-launch"></a>
 
 The following issues prevent you from launching an instance\.

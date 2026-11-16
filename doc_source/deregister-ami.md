@@ -1,3 +1,13 @@
+---
+title: "Deregister your AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Deregister your AMI<a name="deregister-ami"></a>
 
 You can deregister an AMI when you have finished using it\. After you deregister an AMI, you can't use it to launch new instances\.

@@ -1,3 +1,13 @@
+---
+title: "Determine the supported boot modes of an instance type"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Determine the supported boot modes of an instance type<a name="instance-type-boot-mode"></a>
 
 You can use the AWS CLI to determine the supported boot modes of an instance type\.

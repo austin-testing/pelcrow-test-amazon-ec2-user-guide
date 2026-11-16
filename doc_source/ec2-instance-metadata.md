@@ -1,3 +1,13 @@
+---
+title: "Instance metadata and user data"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Instance metadata and user data<a name="ec2-instance-metadata"></a>
 
 *Instance metadata* is data about your instance that you can use to configure or manage the running instance\. Instance metadata is divided into [categories](instancedata-data-categories.md), for example, host name, events, and security groups\.

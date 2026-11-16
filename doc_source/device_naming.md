@@ -1,3 +1,13 @@
+---
+title: "Device names on Linux instances"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Device names on Linux instances<a name="device_naming"></a>
 
 When you attach a volume to your instance, you include a device name for the volume\. This device name is used by Amazon EC2\. The block device driver for the instance assigns the actual volume name when mounting the volume, and the name assigned can be different from the name that Amazon EC2 uses\.

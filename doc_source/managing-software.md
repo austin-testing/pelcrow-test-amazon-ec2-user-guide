@@ -1,3 +1,13 @@
+---
+title: "Manage software on your Amazon Linux instance"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Manage software on your Amazon Linux instance<a name="managing-software"></a>
 
 The base distribution of Amazon Linux contains many software packages and utilities that are required for basic server operations\. Many more software packages are available in various software repositories, and even more packages are available for you to build from source code\.

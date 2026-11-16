@@ -1,3 +1,13 @@
+---
+title: "Deprecate an AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Deprecate an AMI<a name="ami-deprecate"></a>
 
 You can deprecate an AMI to indicate that it is out of date and should not be used\. You can also specify a future deprecation date for an AMI, indicating when the AMI will be out of date\. For example, you might deprecate an AMI that is no longer actively maintained, or you might deprecate an AMI that has been superseded by a newer version\. By default, deprecated AMIs do not appear in AMI listings, preventing new users from using out\-of\-date AMIs\. However, existing users and launch services, such as launch templates and Auto Scaling groups, can continue to use a deprecated AMI by specifying its ID\. To delete the AMI so that users and services cannot use it, you must [deregister](deregister-ami.md) it\.

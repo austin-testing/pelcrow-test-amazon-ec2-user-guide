@@ -1,3 +1,13 @@
+---
+title: "Amazon Elastic Compute Cloud User Guide for Linux Instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Amazon Elastic Compute Cloud User Guide for Linux Instances
 
 -----

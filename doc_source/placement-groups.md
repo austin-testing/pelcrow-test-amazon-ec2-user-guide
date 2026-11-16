@@ -1,3 +1,13 @@
+---
+title: "Placement groups"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Networking"]
+---
+
 # Placement groups<a name="placement-groups"></a>
 
 When you launch a new EC2 instance, the EC2 service attempts to place the instance in such a way that all of your instances are spread out across underlying hardware to minimize correlated failures\. You can use *placement groups* to influence the placement of a group of *interdependent* instances to meet the needs of your workload\. Depending on the type of workload, you can create a placement group using one of the following placement strategies:

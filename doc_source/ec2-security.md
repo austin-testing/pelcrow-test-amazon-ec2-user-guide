@@ -1,3 +1,13 @@
+---
+title: "Security in Amazon EC2"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Security in Amazon EC2<a name="ec2-security"></a>
 
 Cloud security at AWS is the highest priority\. As an AWS customer, you benefit from a data center and network architecture that are built to meet the requirements of the most security\-sensitive organizations\.

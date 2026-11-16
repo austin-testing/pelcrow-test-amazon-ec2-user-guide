@@ -1,3 +1,13 @@
+---
+title: "Amazon EC2 service quotas"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Amazon EC2 service quotas<a name="ec2-resource-limits"></a>
 
 Amazon EC2 provides different resources that you can use\. These resources include images, instances, volumes, and snapshots\. When you create your AWS account, we set default *quotas* \(also referred to as limits\) on these resources on a per\-Region basis\. For example, there is a maximum number of instances that you can launch in a Region\. So if you were to launch an instance in the US West \(Oregon\) Region, for example, the request must not cause your usage to exceed your maximum number of instances in that Region\.

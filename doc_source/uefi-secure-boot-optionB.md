@@ -1,3 +1,13 @@
+---
+title: "Option B: Create a binary blob containing a pre-filled variable store"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Option B: Create a binary blob containing a pre\-filled variable store<a name="uefi-secure-boot-optionB"></a>
 
 After you have created the [three key pairs](uefi-secure-boot-create-three-key-pairs.md), you can create a binary blob containing a pre\-filled variable store containing the UEFI Secure Boot keys\.

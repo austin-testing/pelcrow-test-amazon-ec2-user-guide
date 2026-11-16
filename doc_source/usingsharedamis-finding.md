@@ -1,3 +1,13 @@
+---
+title: "Find shared AMIs"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Find shared AMIs<a name="usingsharedamis-finding"></a>
 
 You can use the Amazon EC2 console or the command line to find shared AMIs\. 

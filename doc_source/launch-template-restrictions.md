@@ -1,3 +1,13 @@
+---
+title: "Launch template restrictions"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Launch template restrictions<a name="launch-template-restrictions"></a>
 
 The following rules apply to launch templates and launch template versions:

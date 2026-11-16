@@ -1,3 +1,13 @@
+---
+title: "Regions and Zones"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Regions and Zones<a name="using-regions-availability-zones"></a>
 
 Amazon EC2 is hosted in multiple locations world\-wide\. These locations are composed of AWS Regions, Availability Zones, Local Zones, AWS Outposts, and Wavelength Zones\.

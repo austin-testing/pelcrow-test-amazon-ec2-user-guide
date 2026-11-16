@@ -1,3 +1,13 @@
+---
+title: "Modify Reserved Instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Modify Reserved Instances<a name="ri-modifying"></a>
 
 When your needs change, you can modify your Standard or Convertible Reserved Instances and continue to benefit from the billing benefit\. You can modify attributes such as the Availability Zone, instance size \(within the same instance family and generation\), and scope of your Reserved Instance\.

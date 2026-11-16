@@ -1,3 +1,13 @@
+---
+title: "Rules for specifying CPU options"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Rules for specifying CPU options<a name="instance-cpu-options-rules"></a>
 
 To specify the CPU options for your instance, be aware of the following rules:

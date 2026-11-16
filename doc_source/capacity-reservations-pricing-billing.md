@@ -1,3 +1,13 @@
+---
+title: "Capacity Reservation pricing and billing"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Capacity Reservation pricing and billing<a name="capacity-reservations-pricing-billing"></a>
 
 **Topics**

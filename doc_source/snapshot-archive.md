@@ -1,3 +1,13 @@
+---
+title: "Archive Amazon EBS snapshots"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Archive Amazon EBS snapshots<a name="snapshot-archive"></a>
 
 Amazon EBS Snapshots Archive is a new storage tier that you can use for low\-cost, long\-term storage of your rarely\-accessed snapshots that do not need frequent or fast retrieval\.

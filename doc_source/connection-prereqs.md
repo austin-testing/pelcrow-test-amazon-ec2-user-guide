@@ -1,3 +1,13 @@
+---
+title: "Set up to connect to your instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Set up to connect to your instance<a name="connection-prereqs"></a>
 
 To set up to connect to a Windows instance, see [Prerequisites](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/connecting_to_windows_instance.html#rdp-prereqs) in the *Amazon EC2 User Guide for Windows Instances*\.

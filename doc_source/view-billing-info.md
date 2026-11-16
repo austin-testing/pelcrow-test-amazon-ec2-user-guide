@@ -1,3 +1,13 @@
+---
+title: "Finding AMI billing and usage details"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2","AMI"]
+---
+
 # Finding AMI billing and usage details<a name="view-billing-info"></a>
 
 In the Amazon EC2 console, you can view the AMI billing information from the **AMIs** page or from the **Instances** page\. You can also find billing information using the AWS CLI or the instance metadata service\.

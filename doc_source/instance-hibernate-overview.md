@@ -1,3 +1,13 @@
+---
+title: "Overview of hibernation"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Overview of hibernation<a name="instance-hibernate-overview"></a>
 
 The following diagram shows a basic overview of the hibernation process\.

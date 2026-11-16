@@ -1,3 +1,13 @@
+---
+title: "Send a diagnostic interrupt (for advanced users)"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Send a diagnostic interrupt \(for advanced users\)<a name="diagnostic-interrupt"></a>
 
 **Warning**  

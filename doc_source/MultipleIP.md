@@ -1,3 +1,13 @@
+---
+title: "Multiple IP addresses"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # Multiple IP addresses<a name="MultipleIP"></a>
 
 You can specify multiple private IPv4 and IPv6 addresses for your instances\. The number of network interfaces and private IPv4 and IPv6 addresses that you can specify for an instance depends on the instance type\. For more information, see [IP addresses per network interface per instance type](using-eni.md#AvailableIpPerENI)\.

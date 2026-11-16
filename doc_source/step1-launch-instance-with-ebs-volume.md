@@ -1,3 +1,13 @@
+---
+title: "Step 1: Launch an EC2 instance with an added EBS volume"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Step 1: Launch an EC2 instance with an added EBS volume<a name="step1-launch-instance-with-ebs-volume"></a>
 
  To launch an instance you choose an AWS Region, an operating system \(OS\), an Amazon Machine Image \(AMI\), an instance type, use a key pair to securely connect to your instance, set up the network, and configure storage\. When you launch an instance, choose a descriptive name to make it easy to identify the instance\. In this step, you launch an instance called `tutorial-volumes`\.

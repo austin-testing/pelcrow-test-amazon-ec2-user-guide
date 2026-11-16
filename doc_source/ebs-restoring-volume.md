@@ -1,3 +1,13 @@
+---
+title: "Replace a volume using a previous snapshot"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Replace a volume using a previous snapshot<a name="ebs-restoring-volume"></a>
 
 Amazon EBS snapshots are the preferred backup tool on Amazon EC2 because of their speed, convenience, and cost\. When creating a volume from a snapshot, you recreate its state at a specific point in time with the data saved up to that specific point intact\. By attaching a volume created from a snapshot to an instance, you can duplicate data across Regions, create test environments, replace a damaged or corrupted production volume in its entirety, or retrieve specific files and directories and transfer them to another attached volume\. For more information, see [Amazon EBS snapshots](EBSSnapshots.md)\.

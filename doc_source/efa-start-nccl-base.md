@@ -1,3 +1,13 @@
+---
+title: "Use a base AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Networking","AMI"]
+---
+
 # Use a base AMI<a name="efa-start-nccl-base"></a>
 
 The following steps help you to get started with Elastic Fabric Adapter using an AMI for one of the [supported base operating systems](efa.md#efa-os)\.

@@ -1,3 +1,13 @@
+---
+title: "Create an Amazon EBS volume"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Create an Amazon EBS volume<a name="ebs-creating-volume"></a>
 
 You can create an Amazon EBS volume and then attach it to any EC2 instance in the same Availability Zone\. If you create an encrypted EBS volume, you can only attach it to supported instance types\. For more information, see [Supported instance types](EBSEncryption.md#EBSEncryption_supported_instances)\.

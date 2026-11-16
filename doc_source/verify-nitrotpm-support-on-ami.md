@@ -1,3 +1,13 @@
+---
+title: "Verify whether an AMI is enabled for NitroTPM"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Security","Performance Optimization"]
+audience: ["Security Architect"]
+platform: ["EC2","AMI"]
+---
+
 # Verify whether an AMI is enabled for NitroTPM<a name="verify-nitrotpm-support-on-ami"></a>
 
 You can use either `describe-images` or `describe-image-attributes` to verify whether an AMI is enabled for NitroTPM\.

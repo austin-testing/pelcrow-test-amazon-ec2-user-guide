@@ -1,3 +1,13 @@
+---
+title: "Condition keys for Recycle Bin"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Condition keys for Recycle Bin<a name="rbin-condition-keys"></a>
 
 Recycle Bin defines the following condition keys that you can use in the `Condition` element of an IAM policy to control the conditions under which the policy statement applies\. For more information, see [ IAM JSON policy elements: Condition](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition.html) in the *IAM User Guide*\.

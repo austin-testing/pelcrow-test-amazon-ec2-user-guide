@@ -1,3 +1,13 @@
+---
+title: "Example configurations for EC2 Fleet and Spot Fleet"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Example configurations for EC2 Fleet and Spot Fleet<a name="fleet-examples"></a>
 
 The following examples show launch configurations that you can use to create EC2 Fleets and Spot Fleets\.

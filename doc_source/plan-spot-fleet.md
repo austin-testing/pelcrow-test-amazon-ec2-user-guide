@@ -1,3 +1,13 @@
+---
+title: "Plan a Spot Fleet request"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Plan a Spot Fleet request<a name="plan-spot-fleet"></a>
 
 Before you create a Spot Fleet request, review [Spot Best Practices](https://aws.amazon.com/ec2/spot/getting-started/#bestpractices)\. Use these best practices when you plan your Spot Fleet request so that you can provision the type of instances you want at the lowest possible price\. We also recommend that you do the following:

@@ -1,3 +1,13 @@
+---
+title: "Launch a Linux instance with UEFI Secure Boot support"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security","Launch"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Launch a Linux instance with UEFI Secure Boot support<a name="launch-instance-with-uefi-sb"></a>
 
 When you [launch an instance](LaunchingAndUsingInstances.md) with the following prerequisites, the instance will automatically validate UEFI boot binaries against its UEFI Secure Boot database\. You can also configure UEFI Secure Boot on an instance after launch\.

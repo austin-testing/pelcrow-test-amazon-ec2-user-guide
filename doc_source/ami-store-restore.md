@@ -1,3 +1,13 @@
+---
+title: "Store and restore an AMI using S3"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Store and restore an AMI using S3<a name="ami-store-restore"></a>
 
 You can store an Amazon Machine Image \(AMI\) in an Amazon S3 bucket, copy the AMI to another S3 bucket, and then restore it from the S3 bucket\. By storing and restoring an AMI using S3 buckets, you can copy AMIs from one AWS partition to another, for example, from the main commercial partition to the AWS GovCloud \(US\) partition\. You can also make archival copies of AMIs by storing them in an S3 bucket\.

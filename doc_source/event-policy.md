@@ -1,3 +1,13 @@
+---
+title: "Automate cross-account snapshot copies"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery","Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","Storage"]
+---
+
 # Automate cross\-account snapshot copies<a name="event-policy"></a>
 
 Automating cross\-account snapshot copies enables you to copy your Amazon EBS snapshots to specific Regions in an isolated account and encrypt those snapshots with an encryption key\. This enables you to protect yourself against data loss in the event of your account being compromised\.

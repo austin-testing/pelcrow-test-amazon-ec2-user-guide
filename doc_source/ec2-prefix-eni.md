@@ -1,3 +1,13 @@
+---
+title: "Assigning prefixes to Amazon EC2 network interfaces"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Networking"]
+---
+
 # Assigning prefixes to Amazon EC2 network interfaces<a name="ec2-prefix-eni"></a>
 
 You can assign a private IPv4 or IPv6 CIDR range, either automatically or manually, to your network interfaces\. By assigning prefixes, you scale and simplify the management of applications, including container and networking applications that require multiple IP addresses on an instance\.

@@ -1,3 +1,13 @@
+---
+title: "Spot Instance data feed"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Spot Instance data feed<a name="spot-data-feeds"></a>
 
 To help you understand the charges for your Spot Instances, Amazon EC2 provides a data feed that describes your Spot Instance usage and pricing\. This data feed is sent to an Amazon S3 bucket that you specify when you subscribe to the data feed\.

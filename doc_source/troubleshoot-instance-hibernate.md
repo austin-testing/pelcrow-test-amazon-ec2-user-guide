@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot hibernation"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Troubleshoot hibernation<a name="troubleshoot-instance-hibernate"></a>
 
 Use this information to help diagnose and fix issues that you might encounter when hibernating an instance\.

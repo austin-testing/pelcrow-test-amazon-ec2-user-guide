@@ -1,3 +1,13 @@
+---
+title: "Run Amazon Linux 2 as a virtual machine on premises"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Run Amazon Linux 2 as a virtual machine on premises<a name="amazon-linux-2-virtual-machine"></a>
 
 Use the Amazon Linux 2 virtual machine \(VM\) images for on\-premises development and testing\. We offer a different Amazon Linux 2 VM image for each of the supported virtualization platforms\. You can view the list of supported platforms on the [Amazon Linux 2 virtual machine images](https://cdn.amazonlinux.com/os-images/latest/) page\.

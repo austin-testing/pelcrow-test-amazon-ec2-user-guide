@@ -1,3 +1,13 @@
+---
+title: "Error retries"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Error retries<a name="error-retries"></a>
 
 The **AWS SDKs** implement automatic retry logic for requests that return error responses\. You can configure the retry settings for the AWS SDKs\. For more information, see your SDK's documentation\.

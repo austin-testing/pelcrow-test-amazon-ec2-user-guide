@@ -1,3 +1,13 @@
+---
+title: "I/O characteristics and monitoring"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # I/O characteristics and monitoring<a name="ebs-io-characteristics"></a>
 
 On a given volume configuration, certain I/O characteristics drive the performance behavior for your EBS volumes\. SSD\-backed volumes—General Purpose SSD \(`gp2` and `gp3`\) and Provisioned IOPS SSD \(`io1` and `io2`\)—deliver consistent performance whether an I/O operation is random or sequential\. HDD\-backed volumes—Throughput Optimized HDD \(`st1`\) and Cold HDD \(`sc1`\)—deliver optimal performance only when I/O operations are large and sequential\. To understand how SSD and HDD volumes will perform in your application, it is important to know the connection between demand on the volume, the quantity of IOPS available to it, the time it takes for an I/O operation to complete, and the volume's throughput limits\.

@@ -1,3 +1,13 @@
+---
+title: "Resource IDs"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Resource IDs<a name="resource-ids"></a>
 
 When resources are created, we assign each resource a unique resource ID\. A resource ID takes the form of a resource identifier \(such as `snap` for a snapshot\) followed by a hyphen and a unique combination of letters and numbers\.

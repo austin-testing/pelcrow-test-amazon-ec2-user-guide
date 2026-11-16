@@ -1,3 +1,13 @@
+---
+title: "Launch an instance using the old launch instance wizard"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Launch an instance using the old launch instance wizard<a name="launching-instance"></a>
 
 **Important**  

@@ -1,3 +1,13 @@
+---
+title: "Configure SSL/TLS on Amazon Linux 2023"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Configure SSL/TLS on Amazon Linux 2023<a name="SSL-on-amazon-linux-2023"></a>
 
 Secure Sockets Layer/Transport Layer Security \(SSL/TLS\) creates an encrypted channel between a web server and web client that protects data in transit from being eavesdropped on\. This tutorial explains how to add support manually for SSL/TLS on an EC2 instance with Amazon Linux 2023 and Apache web server\. This tutorial assumes that you are not using a load balancer\. If you are using Elastic Load Balancing, you can choose to configure SSL offload on the load balancer, using a certificate from [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/) instead\.

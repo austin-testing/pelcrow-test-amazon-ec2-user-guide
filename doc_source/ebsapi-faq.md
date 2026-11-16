@@ -1,3 +1,13 @@
+---
+title: "Frequently asked questions"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Frequently asked questions<a name="ebsapi-faq"></a>
 
 **Can a snapshot be accessed using the EBS direct APIs if it has a pending status?**  

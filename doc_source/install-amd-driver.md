@@ -1,3 +1,13 @@
+---
+title: "Install AMD drivers on Linux instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Install AMD drivers on Linux instances<a name="install-amd-driver"></a>
 
 An instance with an attached AMD GPU, such as a G4ad instance, must have the appropriate AMD driver installed\. Depending on your requirements, you can either use an AMI with the driver preinstalled or download a driver from Amazon S3\.

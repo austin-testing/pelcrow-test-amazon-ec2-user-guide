@@ -1,3 +1,13 @@
+---
+title: "Change the instance type of an instance store-backed instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Change the instance type of an instance store\-backed instance<a name="resize-instance-store-backed-instance"></a>
 
 An instance store\-backed instance is an instance that has an instance store root volume\. You can't change the instance type of an instance that has an instance store root volume\. Instead, you must create an AMI from your instance, launch a new instance from this AMI and select the instance type that you want, and then migrate your application to the new instance\. Note that the instance type that you want must be compatible with the AMI you create\. For information about how compatibility is determined, see [Compatibility for changing the instance type](resize-limitations.md)\.

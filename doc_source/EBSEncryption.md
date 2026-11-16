@@ -1,3 +1,13 @@
+---
+title: "Amazon EBS encryption"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Storage"]
+---
+
 # Amazon EBS encryption<a name="EBSEncryption"></a>
 
 Use Amazon EBS encryption as a straight\-forward encryption solution for your EBS resources associated with your EC2 instances\. With Amazon EBS encryption, you aren't required to build, maintain, and secure your own key management infrastructure\. Amazon EBS encryption uses AWS KMS keys when creating encrypted volumes and snapshots\.

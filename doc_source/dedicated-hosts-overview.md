@@ -1,3 +1,13 @@
+---
+title: "Dedicated Hosts"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Dedicated Hosts<a name="dedicated-hosts-overview"></a>
 
 An Amazon EC2 Dedicated Host is a physical server with EC2 instance capacity fully dedicated to your use\. Dedicated Hosts allow you to use your existing per\-socket, per\-core, or per\-VM software licenses, including Windows Server, Microsoft SQL Server, SUSE, and Linux Enterprise Server\.

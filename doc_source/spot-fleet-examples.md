@@ -1,3 +1,13 @@
+---
+title: "Spot Fleet example configurations"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Spot Fleet example configurations<a name="spot-fleet-examples"></a>
 
 The following examples show launch configurations that you can use with the [request\-spot\-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/request-spot-fleet.html) command to create a Spot Fleet request\. For more information, see [Create a Spot Fleet request](work-with-spot-fleets.md#create-spot-fleet)\.

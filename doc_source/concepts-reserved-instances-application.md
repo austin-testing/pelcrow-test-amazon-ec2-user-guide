@@ -1,3 +1,13 @@
+---
+title: "How you are billed"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # How you are billed<a name="concepts-reserved-instances-application"></a>
 
 All Reserved Instances provide you with a discount compared to On\-Demand pricing\. With Reserved Instances, you pay for the entire term regardless of actual use\. You can choose to pay for your Reserved Instance upfront, partially upfront, or monthly, depending on the [payment option](ec2-reserved-instances.md#ri-payment-options) specified for the Reserved Instance\. 

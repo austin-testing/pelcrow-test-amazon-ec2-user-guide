@@ -1,3 +1,13 @@
+---
+title: "Types of Reserved Instances (offering classes)"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Types of Reserved Instances \(offering classes\)<a name="reserved-instances-types"></a>
 
 The offering class of a Reserved Instance is either Standard or Convertible\. A Standard Reserved Instance provides a more significant discount than a Convertible Reserved Instance, but you can't exchange a Standard Reserved Instance\. You can exchange Convertible Reserved Instances\. You can modify Standard and Convertible Reserved Instances\.

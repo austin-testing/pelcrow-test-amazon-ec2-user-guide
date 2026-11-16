@@ -1,3 +1,13 @@
+---
+title: "Limitations"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Limitations<a name="instance-hibernate-limitations"></a>
 + When you hibernate an instance, the data on any instance store volumes is lost\.
 + You can't hibernate an instance that has more than 150 GB of RAM\.

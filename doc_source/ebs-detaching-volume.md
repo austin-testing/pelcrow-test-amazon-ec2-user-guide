@@ -1,3 +1,13 @@
+---
+title: "Detach an Amazon EBS volume from a Linux instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Detach an Amazon EBS volume from a Linux instance<a name="ebs-detaching-volume"></a>
 
 You need to detach an Amazon Elastic Block Store \(Amazon EBS\) volume from an instance before you can attach it to a different instance or delete it\. Detaching a volume does not affect the data on the volume\.

@@ -1,3 +1,13 @@
+---
+title: "Configure instance metadata options for new instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Configure instance metadata options for new instances<a name="configuring-IMDS-new-instances"></a>
 
 **Topics**

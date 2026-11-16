@@ -1,3 +1,13 @@
+---
+title: "Launch an AWS Marketplace instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Launch an AWS Marketplace instance<a name="launch-marketplace-console"></a>
 
 You can subscribe to an AWS Marketplace product and launch an instance from the product's AMI using the Amazon EC2 launch wizard\. For more information about paid AMIs, see [Paid AMIs](paid-amis.md)\. To cancel your subscription after launch, you first have to terminate all instances running from it\. For more information, see [Manage your AWS Marketplace subscriptions](paid-amis.md#marketplace-manage-subscriptions)\.

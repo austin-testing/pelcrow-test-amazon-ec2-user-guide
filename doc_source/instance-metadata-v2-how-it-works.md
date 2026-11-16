@@ -1,3 +1,13 @@
+---
+title: "How Instance Metadata Service Version 2 works"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # How Instance Metadata Service Version 2 works<a name="instance-metadata-v2-how-it-works"></a>
 
 IMDSv2 uses session\-oriented requests\. With session\-oriented requests, you create a session token that defines the session duration, which can be a minimum of one second and a maximum of six hours\. During the specified duration, you can use the same session token for subsequent requests\. After the specified duration expires, you must create a new session token to use for future requests\.

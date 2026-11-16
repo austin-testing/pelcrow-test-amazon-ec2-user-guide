@@ -1,3 +1,13 @@
+---
+title: "Work with security groups"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Work with security groups<a name="working-with-security-groups"></a>
 
 You can assign a security group to an instance when you launch the instance\. When you add or remove rules, those changes are automatically applied to all instances to which you've assigned the security group\. For more information, see [Assign a security group to an instance](#assigning-security-group)\.

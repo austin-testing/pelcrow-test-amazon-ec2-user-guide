@@ -1,3 +1,13 @@
+---
+title: "Monitor the progress of volume modifications"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Monitor the progress of volume modifications<a name="monitoring-volume-modifications"></a>
 
 When you modify an EBS volume, it goes through a sequence of states\. The volume enters the `modifying` state, the `optimizing` state, and finally the `completed` state\. At this point, the volume is ready to be further modified\. 

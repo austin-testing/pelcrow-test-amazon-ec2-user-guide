@@ -1,3 +1,13 @@
+---
+title: "Create an AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Create an AMI<a name="create-ami"></a>
 
 You can create Amazon EBS\-backed Linux AMIs and instance store\-backed AMIs\.

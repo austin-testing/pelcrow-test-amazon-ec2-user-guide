@@ -1,3 +1,13 @@
+---
+title: "General Purpose SSD volumes"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # General Purpose SSD volumes<a name="general-purpose"></a>
 
 General Purpose SSD \(gp2 and gp3\) volumes are backed by solid\-state drives \(SSDs\)\. They balance price and performance for a wide variety of transactional workloads\. These include virtual desktops, medium\-sized single instance databases, latency sensitive interactive applications, development and test environments, and boot volumes\. We recommend these volumes for most workloads\.

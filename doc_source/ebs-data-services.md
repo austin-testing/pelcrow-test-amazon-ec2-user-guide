@@ -1,3 +1,13 @@
+---
+title: "Amazon EBS data services"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Amazon EBS data services<a name="ebs-data-services"></a>
 
 Amazon EBS provides the following data services\.

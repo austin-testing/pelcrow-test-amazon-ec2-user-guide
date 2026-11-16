@@ -1,3 +1,13 @@
+---
+title: "Host maintenance"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Host maintenance<a name="dedicated-hosts-maintenance"></a>
 
 With host maintenance, your Amazon EC2 instances on a degraded Dedicated Host are automatically rebooted on a newly allocated Dedicated Host during a scheduled maintenance event\. This helps reduce application downtime and offloads the undifferentiated heavy\-lift of maintenance to AWS\. Host maintenance is also performed for planned and routine Amazon EC2 maintenance\.

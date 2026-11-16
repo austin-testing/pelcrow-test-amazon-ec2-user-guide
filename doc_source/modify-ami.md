@@ -1,3 +1,13 @@
+---
+title: "Modify an AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Modify an AMI<a name="modify-ami"></a>
 
 You can modify a limited set of Amazon Machine Image \(AMI\) attributes, such as the AMI's description and sharing properties\. However, AMI content \(volume binary data\) can't be modified\. To modify the AMI content, you must [create a new AMI](create-ami.md)\.

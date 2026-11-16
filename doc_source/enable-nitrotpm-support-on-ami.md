@@ -1,3 +1,13 @@
+---
+title: "Create a Linux AMI for NitroTPM support"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Security","Performance Optimization"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Create a Linux AMI for NitroTPM support<a name="enable-nitrotpm-support-on-ami"></a>
 
 You configure your Linux AMI for NitroTPM support when you register the AMI\. You can’t configure NitroTPM support later\.

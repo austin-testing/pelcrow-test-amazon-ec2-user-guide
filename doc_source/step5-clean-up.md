@@ -1,3 +1,13 @@
+---
+title: "Step 5: Clean up unneeded resources"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Step 5: Clean up unneeded resources<a name="step5-clean-up"></a>
 
 In the following steps, you clean up the resources you created in this tutorial\. It is a good practice to delete resources that you are no longer using\. By deleting a resource you'll also stop incurring charges for that resource\.

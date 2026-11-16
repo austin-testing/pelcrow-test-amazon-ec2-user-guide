@@ -1,3 +1,13 @@
+---
+title: "Enable enhanced networking with the Intel 82599 VF interface on Linux instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Networking"]
+---
+
 # Enable enhanced networking with the Intel 82599 VF interface on Linux instances<a name="sriov-networking"></a>
 
 Amazon EC2 provides enhanced networking capabilities through the Intel 82599 VF interface, which uses the Intel `ixgbevf` driver\.

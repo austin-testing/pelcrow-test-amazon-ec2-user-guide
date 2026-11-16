@@ -1,3 +1,13 @@
+---
+title: "Unlimited mode examples"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Unlimited mode examples<a name="unlimited-mode-examples"></a>
 
 The following examples explain credit use for instances that are configured as `unlimited`\.

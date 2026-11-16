@@ -1,3 +1,13 @@
+---
+title: "Launch an instance from a launch template"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Launch an instance from a launch template<a name="ec2-launch-templates"></a>
 
 You can create a *launch template* that contains the configuration information to launch an instance\. You can use launch templates to store launch parameters so that you do not have to specify them every time you launch an instance\. For example, a launch template can contain the AMI ID, instance type, and network settings that you typically use to launch instances\. When you launch an instance using the Amazon EC2 console, an AWS SDK, or a command line tool, you can specify the launch template to use\.

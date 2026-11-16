@@ -1,3 +1,13 @@
+---
+title: "Option 2: Automatically connect your EC2 instance to your RDS database using the RDS console"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation","Launch"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Option 2: Automatically connect your EC2 instance to your RDS database using the RDS console<a name="tutorial-ec2-rds-option2"></a>
 
 ## Objective<a name="option2-objective"></a>

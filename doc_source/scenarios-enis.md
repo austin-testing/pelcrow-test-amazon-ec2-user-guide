@@ -1,3 +1,13 @@
+---
+title: "Scenarios for network interfaces"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Networking"]
+---
+
 # Scenarios for network interfaces<a name="scenarios-enis"></a>
 
 Attaching multiple network interfaces to an instance is useful when you want to:

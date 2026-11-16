@@ -1,3 +1,13 @@
+---
+title: "Capacity Reservation Fleets"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Capacity Reservation Fleets<a name="cr-fleets"></a>
 
 An *On\-Demand Capacity Reservation Fleet* is a group of Capacity Reservations\.

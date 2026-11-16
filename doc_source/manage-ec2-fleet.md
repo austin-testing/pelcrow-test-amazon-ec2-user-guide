@@ -1,3 +1,13 @@
+---
+title: "Work with EC2 Fleets"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Work with EC2 Fleets<a name="manage-ec2-fleet"></a>
 
 To start using an EC2 Fleet, you create a request that includes the total target capacity, On\-Demand capacity, Spot capacity, one or more launch specifications for the instances, and the maximum price that you are willing to pay\. The fleet request must include a launch template that defines the information that the fleet needs to launch an instance, such as an AMI, instance type, subnet or Availability Zone, and one or more security groups\. You can specify launch specification overrides for the instance type, subnet, Availability Zone, and maximum price you're willing to pay, and you can assign weighted capacity to each launch specification override\.

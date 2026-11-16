@@ -1,3 +1,13 @@
+---
+title: "Log API Calls for EBS direct APIs with AWS CloudTrail"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Log API Calls for EBS direct APIs with AWS CloudTrail<a name="logging-ebs-apis-using-cloudtrail"></a>
 
 The EBS direct APIs service is integrated with AWS CloudTrail\. CloudTrail is a service that provides a record of actions taken by a user, role, or an AWS service\. CloudTrail captures all API calls performed in EBS direct APIs as events\. If you create a trail, you can enable continuous delivery of CloudTrail events to an Amazon Simple Storage Service \(Amazon S3\) bucket\. If you don't configure a trail, you can still view the most recent management events in the CloudTrail console in **Event history**\. Data events are not captured in Event history\. You can use the information collected by CloudTrail to determine the request that was made to EBS direct APIs, the IP address from which the request was made, who made the request, when it was made, and additional details\.

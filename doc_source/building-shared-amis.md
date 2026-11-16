@@ -1,3 +1,13 @@
+---
+title: "Guidelines for shared Linux AMIs"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Guidelines for shared Linux AMIs<a name="building-shared-amis"></a>
 
 Use the following guidelines to reduce the attack surface and improve the reliability of the AMIs you create\.

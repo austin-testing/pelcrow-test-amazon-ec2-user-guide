@@ -1,3 +1,13 @@
+---
+title: "IAM policies for Amazon EC2"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","IAM"]
+---
+
 # IAM policies for Amazon EC2<a name="iam-policies-for-amazon-ec2"></a>
 
 By default, users don't have permission to create or modify Amazon EC2 resources, or perform tasks using the Amazon EC2 API, Amazon EC2 console, or CLI\. To allow users to create or modify resources and perform tasks, you must create IAM policies that grant users permission to use the specific resources and API actions they'll need, and then attach those policies to the users, groups, or IAM roles that require those permissions\.

@@ -1,3 +1,13 @@
+---
+title: "Make an AMI public"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Make an AMI public<a name="sharingamis-intro"></a>
 
 You can share your AMIs with other AWS accounts\. To allow all AWS accounts to use an AMI to launch instances, make the AMI public\. To allow only specific accounts to use the AMI to launch instances, see [Share an AMI with specific AWS accounts](sharingamis-explicit.md)\.

@@ -1,3 +1,13 @@
+---
+title: "Delete your public key on Amazon EC2"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Delete your public key on Amazon EC2<a name="delete-key-pair"></a>
 
 You can delete public keys that are stored in Amazon EC2\. Deleting a public key does not delete the matching private key\.

@@ -1,3 +1,13 @@
+---
+title: "EC2 Fleet example configurations"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # EC2 Fleet example configurations<a name="ec2-fleet-examples"></a>
 
 The following examples show launch configurations that you can use with the [create\-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-fleet.html) command to create an EC2 Fleet\. For more information about the parameters, see [create\-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-fleet.html) in the *AWS CLI Command Reference*\.

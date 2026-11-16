@@ -1,3 +1,13 @@
+---
+title: "Instance volume limits"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Instance volume limits<a name="volume_limits"></a>
 
 The maximum number of volumes that your instance can have depends on the operating system and instance type\. When considering how many volumes to add to your instance, you should consider whether you need increased I/O bandwidth or increased storage capacity\.

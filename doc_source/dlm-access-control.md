@@ -1,3 +1,13 @@
+---
+title: "Permissions for users"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security","Automation"]
+audience: ["Security Architect"]
+platform: ["EC2","IAM"]
+---
+
 # Permissions for users<a name="dlm-access-control"></a>
 
 A user must have the following permissions to use Amazon Data Lifecycle Manager\.

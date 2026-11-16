@@ -1,3 +1,13 @@
+---
+title: "Monitor memory and disk metrics for Amazon EC2 Linux instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage","CloudWatch"]
+---
+
 # Monitor memory and disk metrics for Amazon EC2 Linux instances<a name="mon-scripts"></a>
 
 You can use Amazon CloudWatch to collect metrics and logs from the operating systems for your EC2 instances\.

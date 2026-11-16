@@ -1,3 +1,13 @@
+---
+title: "Work with EC2Rescue for Linux"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Work with EC2Rescue for Linux<a name="ec2rl_working"></a>
 
 The following are common tasks you can perform to get started using this tool\.

@@ -1,3 +1,13 @@
+---
+title: "Control spending"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning","Scaling"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Control spending<a name="ec2-fleet-control-spending"></a>
 
 EC2 Fleet stops launching instances when it has met one of the following parameters: the `TotalTargetCapacity` or the `MaxTotalPrice` \(the maximum amount you’re willing to pay\)\. To control the amount you pay per hour for your fleet, you can specify the `MaxTotalPrice`\. When the maximum total price is reached, EC2 Fleet stops launching instances even if it hasn’t met the target capacity\.

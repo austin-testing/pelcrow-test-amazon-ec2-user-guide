@@ -1,3 +1,13 @@
+---
+title: "Instance retirement"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Instance retirement<a name="instance-retirement"></a>
 
 An instance is scheduled to be retired when AWS detects irreparable failure of the underlying hardware that hosts the instance\. When an instance reaches its scheduled retirement date, it is stopped or terminated by AWS\. 

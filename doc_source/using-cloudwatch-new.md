@@ -1,3 +1,13 @@
+---
+title: "Enable or turn off detailed monitoring for your instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","CloudWatch"]
+---
+
 # Enable or turn off detailed monitoring for your instances<a name="using-cloudwatch-new"></a>
 
 By default, your instance is enabled for basic monitoring\. You can optionally enable detailed monitoring\. After you enable detailed monitoring, the Amazon EC2 console displays monitoring graphs with a 1\-minute period for the instance\.

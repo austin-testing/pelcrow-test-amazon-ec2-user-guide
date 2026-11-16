@@ -1,3 +1,13 @@
+---
+title: "Use encryption"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Storage"]
+---
+
 # Use encryption<a name="ebsapis-using-encryption"></a>
 
 When you start a new snapshot using [ StartSnapshot](https://docs.aws.amazon.com/ebs/latest/APIReference/API_StartSnapshot.html), the encryption status depends on the values that you specify for **Encrypted**, **KmsKeyArn**, and **ParentSnapshotId**, and whether your AWS account is enabled for [encryption by default](EBSEncryption.md#encryption-by-default)\.

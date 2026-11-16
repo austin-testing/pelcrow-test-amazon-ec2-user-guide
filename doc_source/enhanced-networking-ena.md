@@ -1,3 +1,13 @@
+---
+title: "Enable enhanced networking with the Elastic Network Adapter (ENA) on Linux instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Networking"]
+---
+
 # Enable enhanced networking with the Elastic Network Adapter \(ENA\) on Linux instances<a name="enhanced-networking-ena"></a>
 
 Amazon EC2 provides enhanced networking capabilities through the Elastic Network Adapter \(ENA\)\. To use enhanced networking, you must install the required ENA module and enable ENA support\.

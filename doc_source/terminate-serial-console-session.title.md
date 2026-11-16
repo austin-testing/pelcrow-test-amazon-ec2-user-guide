@@ -1,3 +1,13 @@
+---
+title: "Terminate an EC2 Serial Console session"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Terminate an EC2 Serial Console session<a name="terminate-serial-console-session.title"></a>
 
 The way to terminate a serial console session depends on the client\.

@@ -1,3 +1,13 @@
+---
+title: "Instance metadata categories"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Instance metadata categories<a name="instancedata-data-categories"></a>
 
 Instance metadata is divided into categories\. To retrieve instance metadata, you specify the category in the request, and the metadata is returned in the response\.

@@ -1,3 +1,13 @@
+---
+title: "Paid AMIs"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2","AMI"]
+---
+
 # Paid AMIs<a name="paid-amis"></a>
 
 A *paid AMI* is an AMI that you can purchase from a developer\.

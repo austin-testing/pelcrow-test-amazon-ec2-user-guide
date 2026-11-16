@@ -1,3 +1,13 @@
+---
+title: "AMI tools reference"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # AMI tools reference<a name="ami-tools-commands"></a>
 
 You can use the AMI tools commands to create and manage instance store\-backed Linux AMIs\. To set up the tools, see [Set up the AMI tools](set-up-ami-tools.md)\.

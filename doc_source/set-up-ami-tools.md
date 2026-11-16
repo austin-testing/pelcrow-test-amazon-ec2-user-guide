@@ -1,3 +1,13 @@
+---
+title: "Set up the AMI tools"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Set up the AMI tools<a name="set-up-ami-tools"></a>
 
 You can use the AMI tools to create and manage instance store\-backed Linux AMIs\. To use the tools, you must install them on your Linux instance\. The AMI tools are available as both an RPM and as a \.zip file for Linux distributions that don't support RPM\.

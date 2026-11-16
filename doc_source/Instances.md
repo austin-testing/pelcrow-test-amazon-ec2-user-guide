@@ -1,3 +1,13 @@
+---
+title: "Amazon EC2 instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Amazon EC2 instances<a name="Instances"></a>
 
 If you're new to Amazon EC2, see the following topics to get started:

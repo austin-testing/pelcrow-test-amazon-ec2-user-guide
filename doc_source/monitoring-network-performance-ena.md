@@ -1,3 +1,13 @@
+---
+title: "Monitor network performance for your EC2 instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # Monitor network performance for your EC2 instance<a name="monitoring-network-performance-ena"></a>
 
 The Elastic Network Adapter \(ENA\) driver publishes network performance metrics from the instances where they are enabled\. You can use these metrics to troubleshoot instance performance issues, choose the right instance size for a workload, plan scaling activities proactively, and benchmark applications to determine whether they maximize the performance available on an instance\.

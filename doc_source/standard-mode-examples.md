@@ -1,3 +1,13 @@
+---
+title: "Standard mode examples"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Standard mode examples<a name="standard-mode-examples"></a>
 
 The following examples explain credit use when instances are configured as `standard`\.

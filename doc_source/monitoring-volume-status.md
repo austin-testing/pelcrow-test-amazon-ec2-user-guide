@@ -1,3 +1,13 @@
+---
+title: "Monitor the status of your volumes"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Monitor the status of your volumes<a name="monitoring-volume-status"></a>
 
 Amazon Web Services \(AWS\) automatically provides data that you can use to monitor your Amazon Elastic Block Store \(Amazon EBS\) volumes\.

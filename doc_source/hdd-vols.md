@@ -1,3 +1,13 @@
+---
+title: "Throughput Optimized HDD and Cold HDD volumes"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Throughput Optimized HDD and Cold HDD volumes<a name="hdd-vols"></a>
 
 The HDD\-backed volumes provided by Amazon EBS fall into these categories:

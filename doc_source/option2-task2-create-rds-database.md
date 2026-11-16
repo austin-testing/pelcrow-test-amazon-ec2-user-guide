@@ -1,3 +1,13 @@
+---
+title: "Task 2: Create an RDS database and automatically connect it to your EC2 instance"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Automation","Launch"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Task 2: Create an RDS database and automatically connect it to your EC2 instance<a name="option2-task2-create-rds-database"></a>
 
 ## Task objective<a name="option2-task2-create-rds-database-task-objective"></a>

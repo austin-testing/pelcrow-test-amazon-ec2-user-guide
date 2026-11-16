@@ -1,3 +1,13 @@
+---
+title: "Working with AMD SEV-SNP"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Working with AMD SEV\-SNP<a name="snp-work"></a>
 
 **Topics**

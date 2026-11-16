@@ -1,3 +1,13 @@
+---
+title: "CloudWatch metrics for Spot Fleet"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","CloudWatch"]
+---
+
 # CloudWatch metrics for Spot Fleet<a name="spot-fleet-cloudwatch-metrics"></a>
 
 Amazon EC2 provides Amazon CloudWatch metrics that you can use to monitor your Spot Fleet\.

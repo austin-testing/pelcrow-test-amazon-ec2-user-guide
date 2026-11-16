@@ -1,3 +1,13 @@
+---
+title: "Option 3: Manually connect your EC2 instance to your RDS database by mimicking the automatic connection feature"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation","Launch"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Option 3: Manually connect your EC2 instance to your RDS database by mimicking the automatic connection feature<a name="tutorial-ec2-rds-option3"></a>
 
 ## Objective<a name="option3-objective"></a>

@@ -1,3 +1,13 @@
+---
+title: "On-Demand Capacity Reservations"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # On\-Demand Capacity Reservations<a name="ec2-capacity-reservations"></a>
 
 On\-Demand Capacity Reservations enable you to reserve compute capacity for your Amazon EC2 instances in a specific Availability Zone for any duration\. Capacity Reservations mitigate against the risk of being unable to get On\-Demand capacity in case there are capacity constraints\. If you have strict capacity requirements, and are running business\-critical workloads that require a certain level of long or short\-term capacity assurance, we recommend that you create a Capacity Reservation to ensure that you always have access to Amazon EC2 capacity when you need it, for as long as you need it\.

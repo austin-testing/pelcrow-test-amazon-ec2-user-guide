@@ -1,3 +1,13 @@
+---
+title: "Create alarms that stop, terminate, reboot, or recover an instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery","Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","CloudWatch"]
+---
+
 # Create alarms that stop, terminate, reboot, or recover an instance<a name="UsingAlarmActions"></a>
 
 Using Amazon CloudWatch alarm actions, you can create alarms that automatically stop, terminate, reboot, or recover your instances\. You can use the stop or terminate actions to help you save money when you no longer need an instance to be running\. You can use the reboot and recover actions to automatically reboot those instances or recover them onto new hardware if a system impairment occurs\.

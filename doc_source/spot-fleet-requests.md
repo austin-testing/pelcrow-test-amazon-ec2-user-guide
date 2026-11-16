@@ -1,3 +1,13 @@
+---
+title: "Spot Fleet request types"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Spot Fleet request types<a name="spot-fleet-requests"></a>
 
 There are two types of Spot Fleet requests:

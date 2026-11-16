@@ -1,3 +1,13 @@
+---
+title: "Example policies for working with the AWS CLI or an AWS SDK"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Example policies for working with the AWS CLI or an AWS SDK<a name="ExamplePolicies_EC2"></a>
 
 You must grant users the permissions they require for Amazon EC2 using IAM policies\. The following examples show policy statements that you could use to control the permissions that users have to Amazon EC2\. These policies are designed for requests that are made with the AWS CLI or an AWS SDK\. For more information, see [Creating IAM policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create.html) in the IAM User Guide\. For example policies for working in the Amazon EC2 console, see [Example policies for working in the Amazon EC2 console](iam-policies-ec2-console.md)\. For examples of IAM policies specific to Amazon VPC, see [Identity and Access Management for Amazon VPC](https://docs.aws.amazon.com/vpc/latest/userguide/security-iam.html)\.

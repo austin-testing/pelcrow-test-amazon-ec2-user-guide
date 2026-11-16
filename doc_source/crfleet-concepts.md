@@ -1,3 +1,13 @@
+---
+title: "Capacity Reservation Fleet concepts"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Evaluate"
+useCases: ["Getting Started","Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Capacity Reservation Fleet concepts<a name="crfleet-concepts"></a>
 
 This topic describes some of the concepts of Capacity Reservation Fleets\.

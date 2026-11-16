@@ -1,3 +1,13 @@
+---
+title: "Request modifications to your EBS volumes"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Request modifications to your EBS volumes<a name="requesting-ebs-volume-modifications"></a>
 
 With Elastic Volumes, you can dynamically increase the size, increase or decrease the performance, and change the volume type of your Amazon EBS volumes without detaching them\.

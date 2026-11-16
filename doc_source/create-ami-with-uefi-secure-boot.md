@@ -1,3 +1,13 @@
+---
+title: "Create a Linux AMI to support UEFI Secure Boot"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Security","Disaster Recovery"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Create a Linux AMI to support UEFI Secure Boot<a name="create-ami-with-uefi-secure-boot"></a>
 
 The following procedures describe how to create your own UEFI variable store for secure boot with custom\-made private keys\. Currently, we do not provide Linux AMIs that are preconfigured to enable UEFI Secure Boot\.

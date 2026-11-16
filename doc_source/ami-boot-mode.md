@@ -1,3 +1,13 @@
+---
+title: "Determine the boot mode parameter of an AMI"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","AMI"]
+---
+
 # Determine the boot mode parameter of an AMI<a name="ami-boot-mode"></a>
 
 The AMI boot mode parameter is optional\. An AMI can have one of the following boot mode parameter values: `uefi`, `legacy-bios`, or `uefi-preferred`\.

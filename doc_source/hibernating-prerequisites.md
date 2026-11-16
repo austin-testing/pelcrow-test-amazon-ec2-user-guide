@@ -1,3 +1,13 @@
+---
+title: "Hibernation prerequisites"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Hibernation prerequisites<a name="hibernating-prerequisites"></a>
 
 **Topics**

@@ -1,3 +1,13 @@
+---
+title: "Verify whether a Linux instance is enabled for UEFI Secure Boot"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Security","Performance Optimization"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Verify whether a Linux instance is enabled for UEFI Secure Boot<a name="verify-uefi-secure-boot"></a>
 
 You can use the `mokutil` utility to verify whether a Linux instance is enabled for UEFI Secure Boot\. If `mokutil` is not installed on your instance, you must install it\. For the installation instructions for Amazon Linux, see [Install software packages on an Amazon Linux instance](install-software.md)\. For other distributions, see their specific documentation\.

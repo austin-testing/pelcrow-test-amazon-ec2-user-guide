@@ -1,3 +1,13 @@
+---
+title: "Migrate from EC2-Classic to a VPC"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Migration Strategy"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Networking"]
+---
+
 # Migrate from EC2\-Classic to a VPC<a name="vpc-migrate"></a>
 
 

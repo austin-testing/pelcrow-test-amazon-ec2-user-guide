@@ -1,3 +1,13 @@
+---
+title: "Transition to using Instance Metadata Service Version 2"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Transition to using Instance Metadata Service Version 2<a name="instance-metadata-transition-to-version-2"></a>
 
 When migrating to IMDSv2, we recommend that you use the following tools and transition path\.

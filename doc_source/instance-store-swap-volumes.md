@@ -1,3 +1,13 @@
+---
+title: "Instance store swap volumes"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Instance store swap volumes<a name="instance-store-swap-volumes"></a>
 
 Swap space in Linux can be used when a system requires more memory than it has been physically allocated\. When swap space is enabled, Linux systems can swap infrequently used memory pages from physical memory to swap space \(either a dedicated partition or a swap file in an existing file system\) and free up that space for memory pages that require high\-speed access\.

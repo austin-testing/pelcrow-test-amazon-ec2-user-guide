@@ -1,3 +1,13 @@
+---
+title: "Get started with EFA and MPI"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Getting Started","Performance Optimization"]
+audience: ["Developer"]
+platform: ["EC2","Linux","Networking"]
+---
+
 # Get started with EFA and MPI<a name="efa-start"></a>
 
 This tutorial helps you to launch an EFA and MPI\-enabled instance cluster for HPC workloads\. In this tutorial, you will perform the following steps:

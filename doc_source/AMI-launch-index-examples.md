@@ -1,3 +1,13 @@
+---
+title: "Example: AMI launch index value"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Example: AMI launch index value<a name="AMI-launch-index-examples"></a>
 
 This example demonstrates how you can use both user data and instance metadata to configure your instances\. 

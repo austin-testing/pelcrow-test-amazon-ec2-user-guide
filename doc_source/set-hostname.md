@@ -1,3 +1,13 @@
+---
+title: "Change the hostname of your Amazon Linux instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Change the hostname of your Amazon Linux instance<a name="set-hostname"></a>
 
 When you launch an instance into a private VPC, Amazon EC2 assigns a guest OS hostname\. The type of hostname that Amazon EC2 assigns depends on your subnet settings\. For more information about EC2 hostnames, see [Amazon EC2 instance hostname types](ec2-instance-naming.md)\.

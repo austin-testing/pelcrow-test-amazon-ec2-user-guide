@@ -1,3 +1,13 @@
+---
+title: "Delete an Amazon EBS volume"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Delete an Amazon EBS volume<a name="ebs-deleting-volume"></a>
 
 You can delete an Amazon EBS volume that you no longer need\. After deletion, its data is gone and the volume can't be attached to any instance\. So before deletion, you can store a snapshot of the volume, which you can use to re\-create the volume later\. 

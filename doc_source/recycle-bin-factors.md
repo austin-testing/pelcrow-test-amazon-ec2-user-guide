@@ -1,3 +1,13 @@
+---
+title: "Considerations"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Considerations<a name="recycle-bin-factors"></a>
 
 The following considerations apply when working with Recycle Bin and retention rules\.

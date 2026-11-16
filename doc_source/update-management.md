@@ -1,3 +1,13 @@
+---
+title: "Update management in Amazon EC2"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Patching"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Update management in Amazon EC2<a name="update-management"></a>
 
 We recommend that you regularly patch, update, and secure the operating system and applications on your EC2 instances\. You can use [AWS Systems Manager Patch Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-patch.html) to automate the process of installing security\-related updates for both the operating system and applications\. 

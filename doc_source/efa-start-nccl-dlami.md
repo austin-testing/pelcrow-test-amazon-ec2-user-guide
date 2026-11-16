@@ -1,3 +1,13 @@
+---
+title: "Use an AWS Deep Learning AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Networking","AMI"]
+---
+
 # Use an AWS Deep Learning AMI<a name="efa-start-nccl-dlami"></a>
 
 The following steps help you to get started with one of the following AWS Deep Learning AMIs:

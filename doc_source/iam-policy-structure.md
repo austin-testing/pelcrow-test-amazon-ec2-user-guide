@@ -1,3 +1,13 @@
+---
+title: "Policy structure"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","IAM"]
+---
+
 # Policy structure<a name="iam-policy-structure"></a>
 
 The following topics explain the structure of an IAM policy\.

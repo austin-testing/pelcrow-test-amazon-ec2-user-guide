@@ -1,3 +1,13 @@
+---
+title: "Spot Instance quotas"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Spot Instance quotas<a name="using-spot-limits"></a>
 
 There are quotas for the number of running and requested Spot Instances per AWS account per Region\. Spot Instance quotas are managed in terms of the *number of virtual central processing units \(vCPUs\)* that your running Spot Instances are either using or will use pending the fulfillment of open Spot Instance requests\. If you terminate your Spot Instances but do not cancel the Spot Instance requests, the requests count against your Spot Instance vCPU quota until Amazon EC2 detects the Spot Instance terminations and closes the requests\.

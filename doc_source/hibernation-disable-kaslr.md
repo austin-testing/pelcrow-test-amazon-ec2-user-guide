@@ -1,3 +1,13 @@
+---
+title: "Disable KASLR on an instance (Ubuntu only)"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Disable KASLR on an instance \(Ubuntu only\)<a name="hibernation-disable-kaslr"></a>
 
 To run hibernation on a newly launched instance with Ubuntu 16\.04 LTS \- Xenial, Ubuntu 18\.04 LTS \- Bionic released with serial number 20190722\.1 or later, or Ubuntu 20\.04 LTS \- Focal released with serial number 20210820 or later, we recommend disabling KASLR \(Kernel Address Space Layout Randomization\)\. On Ubuntu 16\.04 LTS, Ubuntu 18\.04 LTS, or Ubuntu 20\.04 LTS, KASLR is enabled by default\.

@@ -1,3 +1,13 @@
+---
+title: "Configure an existing AMI to support hibernation"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Configure an existing AMI to support hibernation<a name="hibernation-enabled-AMI"></a>
 
 The following AMIs support hibernation, but to hibernate an instance that was launched with one of these AMIs, additional configuration is required before you can hibernate the instance\.

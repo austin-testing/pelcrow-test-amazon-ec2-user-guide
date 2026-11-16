@@ -1,3 +1,13 @@
+---
+title: "Use EC2Rescue for Linux"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Use EC2Rescue for Linux<a name="Linux-Server-EC2Rescue"></a>
 
 EC2Rescue for Linux is an easy\-to\-use, open\-source tool that can be run on an Amazon EC2 Linux instance to diagnose and troubleshoot common issues using its library of over 100 modules\. A few generalized use cases for EC2Rescue for Linux include gathering syslog and package manager logs, collecting resource utilization data, and diagnosing/remediating known problematic kernel parameters and common OpenSSH issues\.

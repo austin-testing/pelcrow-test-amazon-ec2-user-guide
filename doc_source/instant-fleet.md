@@ -1,3 +1,13 @@
+---
+title: "Use an EC2 Fleet of type 'instant'"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Use an EC2 Fleet of type 'instant'<a name="instant-fleet"></a>
 
 The EC2 Fleet of type *instant* is a synchronous one\-time request that makes only one attempt to launch your desired capacity\. The API response lists the instances that launched, along with errors for those instances that could not be launched\. There are several benefits to using an EC2 Fleet of type *instant*, which are described in this article\. Example configurations are provided at the end of the article\.

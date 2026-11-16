@@ -1,3 +1,13 @@
+---
+title: "Provisioned IOPS SSD volumes"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Provisioned IOPS SSD volumes<a name="provisioned-iops"></a>
 
 Provisioned IOPS SSD volumes are backed by solid\-state drives \(SSDs\)\. They are the highest performance Amazon EBS storage volumes designed for critical, IOPS\-intensive, and throughput\-intensive workloads that require low latency\.

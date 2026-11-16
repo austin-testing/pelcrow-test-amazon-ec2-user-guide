@@ -1,3 +1,13 @@
+---
+title: "Get statistics for metrics for your instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","CloudWatch"]
+---
+
 # Get statistics for metrics for your instances<a name="monitoring_get_statistics"></a>
 
 You can get statistics for the CloudWatch metrics for your instances\.

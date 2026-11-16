@@ -1,3 +1,13 @@
+---
+title: "Related information"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Related information<a name="ec2-related-information"></a>
 
 The following related resources can help you as you work with this service\.

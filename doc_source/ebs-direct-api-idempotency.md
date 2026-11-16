@@ -1,3 +1,13 @@
+---
+title: "Idempotency for StartSnapshot API"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Idempotency for StartSnapshot API<a name="ebs-direct-api-idempotency"></a>
 
 Idempotency ensures that an API request completes only once\. With an idempotent request, if the original request completes successful, the subsequent retries return the result from the original successful request and they have no additional effect\.

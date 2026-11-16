@@ -1,3 +1,13 @@
+---
+title: "EC2 Fleet instance weighting"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # EC2 Fleet instance weighting<a name="ec2-fleet-instance-weighting"></a>
 
 When you create an EC2 Fleet, you can define the capacity units that each instance type would contribute to your application's performance\. You can then adjust your maximum price for each launch specification by using *instance weighting*\.

@@ -1,3 +1,13 @@
+---
+title: "Considerations"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Considerations<a name="snp-considerations"></a>
 
 Keep the following in mind when working with AMD SEV\-SNP\.

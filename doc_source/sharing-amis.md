@@ -1,3 +1,13 @@
+---
+title: "Shared AMIs"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Shared AMIs<a name="sharing-amis"></a>
 
 *A shared AMI* is an AMI that a developer created and made available for others to use\. One of the easiest ways to get started with Amazon EC2 is to use a shared AMI that has the components you need and then add custom content\. You can also create your own AMIs and share them with others\. 

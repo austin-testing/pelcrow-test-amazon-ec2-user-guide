@@ -1,3 +1,13 @@
+---
+title: "Attach a volume to multiple instances with Amazon EBS Multi-Attach"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Attach a volume to multiple instances with Amazon EBS Multi\-Attach<a name="ebs-volumes-multi"></a>
 
 Amazon EBS Multi\-Attach enables you to attach a single Provisioned IOPS SSD \(`io1` or `io2`\) volume to multiple instances that are in the same Availability Zone\. You can attach multiple Multi\-Attach enabled volumes to an instance or set of instances\. Each instance to which the volume is attached has full read and write permission to the shared volume\. Multi\-Attach makes it easier for you to achieve higher application availability in clustered Linux applications that manage concurrent write operations\.

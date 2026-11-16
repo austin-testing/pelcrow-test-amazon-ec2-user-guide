@@ -1,3 +1,13 @@
+---
+title: "Amazon EC2 Mac instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Amazon EC2 Mac instances<a name="ec2-mac-instances"></a>
 
 Amazon EC2 Mac instances natively support the macOS operating system\.

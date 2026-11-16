@@ -1,3 +1,13 @@
+---
+title: "Using service-linked roles for Capacity Reservation Fleet"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","IAM"]
+---
+
 # Using service\-linked roles for Capacity Reservation Fleet<a name="using-service-linked-roles"></a>
 
 On\-Demand Capacity Reservation Fleet uses AWS Identity and Access Management \(IAM\)[ service\-linked roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_terms-and-concepts.html#iam-term-service-linked-role)\. A service\-linked role is a unique type of IAM role that is linked directly to Capacity Reservation Fleet\. Service\-linked roles are predefined by Capacity Reservation Fleet and include all the permissions that the service requires to call other AWS services on your behalf\. 

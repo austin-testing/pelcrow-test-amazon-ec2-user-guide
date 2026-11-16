@@ -1,3 +1,13 @@
+---
+title: "AWS Identity and Access Management"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # AWS Identity and Access Management<a name="dlm-prerequisites"></a>
 
 Access to Amazon Data Lifecycle Manager requires credentials\. Those credentials must have permissions to access AWS resources, such as instances, volumes, snapshots, and AMIs\. The following sections provide details about how you can use AWS Identity and Access Management \(IAM\), and help secure access to your resources\.

@@ -1,3 +1,13 @@
+---
+title: "Use checksums"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Use checksums<a name="ebsapis-using-checksums"></a>
 
 The GetSnapshotBlock action returns data that is in a block of a snapshot, and the PutSnapshotBlock action adds data to a block in a snapshot\. The block data that is transmitted is not signed as part of the Signature Version 4 signing process\. As a result, checksums are used to validate the integrity of the data as follows:

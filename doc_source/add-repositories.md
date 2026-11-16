@@ -1,3 +1,13 @@
+---
+title: "Add repositories on an Amazon Linux instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Patching"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Add repositories on an Amazon Linux instance<a name="add-repositories"></a>
 
 By default, Amazon Linux instances launch with the following repositories enabled:

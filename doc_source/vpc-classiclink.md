@@ -1,3 +1,13 @@
+---
+title: "ClassicLink"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # ClassicLink<a name="vpc-classiclink"></a>
 
 

@@ -1,3 +1,13 @@
+---
+title: "Interruption behavior"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Interruption behavior<a name="interruption-behavior"></a>
 
 You can specify that Amazon EC2 must do one of the following when it interrupts a Spot Instance:

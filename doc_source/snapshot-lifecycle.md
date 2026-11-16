@@ -1,3 +1,13 @@
+---
+title: "Amazon Data Lifecycle Manager"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery","Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","Storage"]
+---
+
 # Amazon Data Lifecycle Manager<a name="snapshot-lifecycle"></a>
 
 You can use Amazon Data Lifecycle Manager to automate the creation, retention, and deletion of EBS snapshots and EBS\-backed AMIs\. When you automate snapshot and AMI management, it helps you to:

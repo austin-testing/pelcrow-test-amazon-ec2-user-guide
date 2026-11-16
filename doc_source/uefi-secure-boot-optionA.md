@@ -1,3 +1,13 @@
+---
+title: "Option A: Add keys to the variable store from within the instance"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Option A: Add keys to the variable store from within the instance<a name="uefi-secure-boot-optionA"></a>
 
 After you have created the [three key pairs](uefi-secure-boot-create-three-key-pairs.md), you can connect to your instance and add the keys to the variable store from within the instance by completing the following steps\.

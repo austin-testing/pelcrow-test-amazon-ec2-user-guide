@@ -1,3 +1,13 @@
+---
+title: "Capacity Reservations in Local Zones"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Capacity Reservations in Local Zones<a name="capacity-reservations-localzones"></a>
 
 A Local Zone is an extension of an AWS Region that is geographically close to your users\. Resources created in a Local Zone can serve local users with very low\-latency communications\. For more information, see [AWS Local Zones](http://aws.amazon.com/about-aws/global-infrastructure/localzones/)\. 

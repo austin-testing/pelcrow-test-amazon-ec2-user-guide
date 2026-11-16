@@ -1,3 +1,13 @@
+---
+title: "Control spending"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning","Scaling"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Control spending<a name="spot-fleet-control-spending"></a>
 
 Spot Fleet stops launching instances when it has either reached the target capacity or the maximum amount you’re willing to pay\. To control the amount you pay per hour for your fleet, you can specify the `SpotMaxTotalPrice` for Spot Instances and the `OnDemandMaxTotalPrice` for On\-Demand Instances\. When the maximum total price is reached, Spot Fleet stops launching instances even if it hasn’t met the target capacity\.

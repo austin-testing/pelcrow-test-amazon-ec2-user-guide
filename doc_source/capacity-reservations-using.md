@@ -1,3 +1,13 @@
+---
+title: "Work with Capacity Reservations"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Work with Capacity Reservations<a name="capacity-reservations-using"></a>
 
 To start using Capacity Reservations, you create the capacity reservation in the required Availability Zone\. Then, you can launch instances into the reserved capacity, view its capacity utilization in real time, and increase or decrease its capacity as needed\. 

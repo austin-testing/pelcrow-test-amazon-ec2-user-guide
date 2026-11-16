@@ -1,3 +1,13 @@
+---
+title: "Work with resources in the Recycle Bin"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Work with resources in the Recycle Bin<a name="recycle-bin-work-with-resources"></a>
 
 Recycle Bin supports the following resource types:

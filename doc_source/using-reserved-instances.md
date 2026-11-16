@@ -1,3 +1,13 @@
+---
+title: "Use your Reserved Instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Cost Planning","Architecture Design"]
+audience: ["Finance/Operations"]
+platform: ["EC2","Linux"]
+---
+
 # Use your Reserved Instances<a name="using-reserved-instances"></a>
 
 Reserved Instances are automatically applied to running On\-Demand Instances provided that the specifications match\. If you have no running On\-Demand Instances that match the specifications of your Reserved Instance, the Reserved Instance is unused until you launch an instance with the required specifications\. 

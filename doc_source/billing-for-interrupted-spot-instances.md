@@ -1,3 +1,13 @@
+---
+title: "Billing for interrupted Spot Instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning","Architecture Design"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Billing for interrupted Spot Instances<a name="billing-for-interrupted-spot-instances"></a>
 
 When a Spot Instance is interrupted, you’re charged for instance and EBS volume usage as follows\.

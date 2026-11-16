@@ -1,3 +1,13 @@
+---
+title: "Best practices for Amazon EC2"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Best practices for Amazon EC2<a name="ec2-best-practices"></a>
 
 To ensure the maximum benefit from Amazon EC2, we recommend that you perform the following best practices\.

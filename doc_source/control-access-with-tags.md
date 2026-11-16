@@ -1,3 +1,13 @@
+---
+title: "Control access to EC2 resources using resource tags"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","IAM"]
+---
+
 # Control access to EC2 resources using resource tags<a name="control-access-with-tags"></a>
 
 When you create an IAM policy that grants users permission to use EC2 resources, you can include tag information in the `Condition` element of the policy to control access based on tags\. This is known as attribute\-based access control \(ABAC\)\. ABAC provides better control over which resources a user can modify, use, or delete\. For more information, see [What is ABAC for AWS?](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_attribute-based-access-control.html)

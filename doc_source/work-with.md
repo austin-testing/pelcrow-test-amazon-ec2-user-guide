@@ -1,3 +1,13 @@
+---
+title: "Use EBS direct APIs"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Use EBS direct APIs<a name="work-with"></a>
 
 The following topics show how to read and write snapshots using the EBS direct APIs\. You can read and write snapshots using the AWS CLI, AWS APIs, and AWS SDKs only\. For more information, see:

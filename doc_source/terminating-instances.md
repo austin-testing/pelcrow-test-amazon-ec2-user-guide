@@ -1,3 +1,13 @@
+---
+title: "Terminate your instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Terminate your instance<a name="terminating-instances"></a>
 
 You can delete your instance when you no longer need it\. This is referred to as *terminating* your instance\. As soon as the state of an instance changes to `shutting-down` or `terminated`, you stop incurring charges for that instance\.

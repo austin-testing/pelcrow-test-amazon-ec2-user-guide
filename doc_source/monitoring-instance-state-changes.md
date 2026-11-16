@@ -1,3 +1,13 @@
+---
+title: "State change events for your instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # State change events for your instances<a name="monitoring-instance-state-changes"></a>
 
 Amazon EC2 sends an `EC2 Instance State-change Notification` event to Amazon EventBridge when the state of an instance changes\.

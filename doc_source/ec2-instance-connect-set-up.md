@@ -1,3 +1,13 @@
+---
+title: "Set up EC2 Instance Connect"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Set up EC2 Instance Connect<a name="ec2-instance-connect-set-up"></a>
 
 To use EC2 Instance Connect to connect to an instance, you need to configure every instance that will support a connection using Instance Connect \(this is a one\-time requirement for each instance\), and you need to grant permission to every IAM principal that will use Instance Connect\. After completing the following setup tasks, you can [connect to your instance using EC2 Instance Connect](ec2-instance-connect-methods.md)\.

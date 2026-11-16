@@ -1,3 +1,13 @@
+---
+title: "Requester-managed network interfaces"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Networking"]
+---
+
 # Requester\-managed network interfaces<a name="requester-managed-eni"></a>
 
 A requester\-managed network interface is a network interface that an AWS service creates in your VPC on your behalf\. The network interface is associated with a resource for another service, such as a DB instance from Amazon RDS, a NAT gateway, or an interface VPC endpoint from AWS PrivateLink\.

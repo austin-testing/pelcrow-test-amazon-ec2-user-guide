@@ -1,3 +1,13 @@
+---
+title: "Recover AMIs from the Recycle Bin"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Recover AMIs from the Recycle Bin<a name="recycle-bin-working-with-amis"></a>
 
 Recycle Bin is a data recovery feature that enables you to restore accidentally deleted Amazon EBS snapshots and EBS\-backed AMIs\. When using Recycle Bin, if your resources are deleted, they are retained in the Recycle Bin for a time period that you specify before being permanently deleted\.

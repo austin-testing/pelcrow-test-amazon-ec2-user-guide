@@ -1,3 +1,13 @@
+---
+title: "Instance lifecycle"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Instance lifecycle<a name="ec2-instance-lifecycle"></a>
 
 An Amazon EC2 instance transitions through different states from the moment you launch it through to its termination\.

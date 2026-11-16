@@ -1,3 +1,13 @@
+---
+title: "EC2 Fleet event types"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # EC2 Fleet event types<a name="ec2-fleet-event-types"></a>
 
 **Note**  

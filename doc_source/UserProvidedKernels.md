@@ -1,3 +1,13 @@
+---
+title: "User provided kernels"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # User provided kernels<a name="UserProvidedKernels"></a>
 
 If you need a custom kernel on your Amazon EC2 instances, you can start with an AMI that is close to what you want, compile the custom kernel on your instance, and update the bootloader to point to the new kernel\. This process varies depending on the virtualization type that your AMI uses\. For more information, see [Linux AMI virtualization types](virtualization_types.md)\.

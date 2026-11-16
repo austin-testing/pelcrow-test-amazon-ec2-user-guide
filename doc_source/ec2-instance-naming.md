@@ -1,3 +1,13 @@
+---
+title: "Amazon EC2 instance hostname types"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Amazon EC2 instance hostname types<a name="ec2-instance-naming"></a>
 
 This section describes the Amazon EC2 instance guest OS hostname types available when you launch instances into your VPC subnets\.

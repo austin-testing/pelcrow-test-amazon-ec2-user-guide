@@ -1,3 +1,13 @@
+---
+title: "Stop and start your instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Stop and start your instance<a name="Stop_Start"></a>
 
 You can stop and start your instance if it has an Amazon EBS volume as its root device\. The instance retains its instance ID, but can change as described in the [Overview](#instance_stop) section\.

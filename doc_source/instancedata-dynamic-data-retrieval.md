@@ -1,3 +1,13 @@
+---
+title: "Retrieve dynamic data"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Retrieve dynamic data<a name="instancedata-dynamic-data-retrieval"></a>
 
 To retrieve dynamic data from within a running instance, use the following URI\. 

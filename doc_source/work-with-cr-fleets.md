@@ -1,3 +1,13 @@
+---
+title: "Work with Capacity Reservation Fleets"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Work with Capacity Reservation Fleets<a name="work-with-cr-fleets"></a>
 
 

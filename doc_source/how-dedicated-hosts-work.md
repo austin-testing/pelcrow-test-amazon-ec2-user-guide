@@ -1,3 +1,13 @@
+---
+title: "Work with Dedicated Hosts"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Work with Dedicated Hosts<a name="how-dedicated-hosts-work"></a>
 
 To use a Dedicated Host, you first allocate hosts for use in your account\. You then launch instances onto the hosts by specifying *host* tenancy for the instance\. You must select a specific host for the instance to launch on to, or you can allow it to launch on to any host that has auto\-placement enabled and matches its instance type\. When an instance is stopped and restarted, the *Host affinity* setting determines whether it's restarted on the same, or a different, host\.

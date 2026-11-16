@@ -1,3 +1,13 @@
+---
+title: "Use launch templates to control launching instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Use launch templates to control launching instances<a name="use-launch-templates-to-control-launching-instances"></a>
 
 You can specify that users can only launch instances if they use a launch template, and that they can only use a specific launch template\. You can also control who can create, modify, describe, and delete launch templates and launch template versions\.

@@ -1,3 +1,13 @@
+---
+title: "Resources and tags"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Resources and tags<a name="EC2_Resources"></a>
 
 Amazon EC2 provides different *resources* that you can create and use\. Some of these resources include images, instances, volumes, and snapshots\. When you create a resource, we assign the resource a unique resource ID\.

@@ -1,3 +1,13 @@
+---
+title: "Modify instance metadata options for existing instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Modify instance metadata options for existing instances<a name="configuring-IMDS-existing-instances"></a>
 
 You can modify the instance metadata options for existing instances\.

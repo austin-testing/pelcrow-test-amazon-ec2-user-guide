@@ -1,3 +1,13 @@
+---
+title: "Monitor the lifecycle of snapshots and AMIs"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery","Monitoring","Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","Storage","AMI"]
+---
+
 # Monitor the lifecycle of snapshots and AMIs<a name="dlm-monitor-lifecycle"></a>
 
 You can use the following features to monitor the lifecycle of your snapshots and AMIs\.

@@ -1,3 +1,13 @@
+---
+title: "Torn write prevention"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Torn write prevention<a name="storage-twp"></a>
 
 Torn write prevention is a block storage feature designed by AWS to improve the performance of your I/O\-intensive relational database workloads and reduce latency without negatively impacting data resiliency\. Relational databases that use InnoDB or XtraDB as the database engine, such as MySQL and MariaDB, will benefit from torn write prevention\.

@@ -1,3 +1,13 @@
+---
+title: "I/O scheduler"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # I/O scheduler<a name="io-scheduler"></a>
 
 The I/O scheduler is a part of the Linux operating system that sorts and merges I/O requests and determines the order in which they are processed\.

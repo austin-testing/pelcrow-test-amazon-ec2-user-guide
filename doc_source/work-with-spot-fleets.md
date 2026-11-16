@@ -1,3 +1,13 @@
+---
+title: "Work with Spot Fleets"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Work with Spot Fleets<a name="work-with-spot-fleets"></a>
 
 To start using a Spot Fleet, you create a Spot Fleet request that includes the target capacity, an optional On\-Demand portion, one or more launch specifications for the instances, and the maximum price that you are willing to pay\. The fleet request must include a launch specification that defines the information that the fleet needs to launch an instance, such as an AMI, instance type, subnet or Availability Zone, and one or more security groups\.

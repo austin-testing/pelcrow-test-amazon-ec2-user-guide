@@ -1,3 +1,13 @@
+---
+title: "Delete a launch template"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Delete a launch template<a name="delete-launch-template"></a>
 
 If you no longer require a launch template, you can delete it\. Deleting a launch template deletes all of its versions\. To delete a specific version of a launch template, see [Delete a launch template version](manage-launch-template-versions.md#delete-launch-template-version)\.

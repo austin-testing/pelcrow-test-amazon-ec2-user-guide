@@ -1,3 +1,13 @@
+---
+title: "Get statistics for a specific instance"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Get statistics for a specific instance<a name="US_SingleMetricPerInstance"></a>
 
 The following examples show you how to use the AWS Management Console or the AWS CLI to determine the maximum CPU utilization of a specific EC2 instance\.

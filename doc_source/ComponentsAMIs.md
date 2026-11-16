@@ -1,3 +1,13 @@
+---
+title: "AMI types"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # AMI types<a name="ComponentsAMIs"></a>
 
 You can select an AMI to use based on the following characteristics:

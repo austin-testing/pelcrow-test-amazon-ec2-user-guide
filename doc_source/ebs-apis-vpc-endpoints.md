@@ -1,3 +1,13 @@
+---
+title: "Using interface VPC endpoints with EBS direct APIs"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking","Storage"]
+---
+
 # Using interface VPC endpoints with EBS direct APIs<a name="ebs-apis-vpc-endpoints"></a>
 
 You can establish a private connection between your VPC and EBS direct APIs by creating an *interface VPC endpoint*, powered by [AWS PrivateLink](privatelink)\. You can access EBS direct APIs as if it were in your VPC, without using an internet gateway, NAT device, VPN connection, or AWS Direct Connect connection\. Instances in your VPC don't need public IP addresses to communicate with EBS direct APIs\.

@@ -1,3 +1,13 @@
+---
+title: "Task 3: Manually connect your EC2 instance to your RDS database by creating security groups and assigning them to the instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security","Launch"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Task 3: Manually connect your EC2 instance to your RDS database by creating security groups and assigning them to the instances<a name="option3-task3-connect-rds-database-to-ec2-instance"></a>
 
 ## Task objective<a name="option3-task3-connect-rds-database-to-ec2-instance-task-objective"></a>

@@ -1,3 +1,13 @@
+---
+title: "Allocation strategies for Spot Instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Allocation strategies for Spot Instances<a name="ec2-fleet-allocation-strategy"></a>
 
 Your launch configuration determines all the possible Spot capacity pools \(instance types and Availability Zones\) from which EC2 Fleet can launch Spot Instances\. However, when launching instances, EC2 Fleet uses the allocation strategy that you specify to pick the specific pools from all your possible pools\.

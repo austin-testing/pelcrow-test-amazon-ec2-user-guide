@@ -1,3 +1,13 @@
+---
+title: "Best practices for configuring network interfaces"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux","Networking"]
+---
+
 # Best practices for configuring network interfaces<a name="best-practices-for-configuring-network-interfaces"></a>
 + You can attach a network interface to an instance when it's running \(hot attach\), when it's stopped \(warm attach\), or when the instance is being launched \(cold attach\)\.
 + You can detach secondary network interfaces when the instance is running or stopped\. However, you can't detach the primary network interface\.

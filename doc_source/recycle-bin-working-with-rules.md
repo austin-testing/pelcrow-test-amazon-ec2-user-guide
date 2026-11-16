@@ -1,3 +1,13 @@
+---
+title: "Work with retention rules"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Work with retention rules<a name="recycle-bin-working-with-rules"></a>
 
 To enable and use Recycle Bin, you must create *retention rules* in the AWS Regions in which you want to protect your resources\. Retention rules specify the following:

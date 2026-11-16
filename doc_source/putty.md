@@ -1,3 +1,13 @@
+---
+title: "Connect to your Linux instance from Windows using PuTTY"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Windows"]
+---
+
 # Connect to your Linux instance from Windows using PuTTY<a name="putty"></a>
 
 If you are running Windows Server 2019 or later, we recommend using OpenSSH, which is an open source connectivity tool for remote login with the SSH protocol\. For steps to connect to a Linux instance from Windows using OpenSSH, see [Connect to your Linux instance from Windows using OpenSSH](openssh.md)\.

@@ -1,3 +1,13 @@
+---
+title: "Work with Capacity Reservation groups"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Work with Capacity Reservation groups<a name="create-cr-group"></a>
 
 You can use AWS Resource Groups to create logical collections of Capacity Reservations, called *resource groups*\. A resource group is a logical grouping of AWS resources that are all in the same AWS Region\. For more information about resource groups, see [What are resource groups?](https://docs.aws.amazon.com/ARG/latest/userguide/) in the *AWS Resource Groups User Guide*\.

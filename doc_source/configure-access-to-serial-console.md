@@ -1,3 +1,13 @@
+---
+title: "Configure access to the EC2 Serial Console"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Configure access to the EC2 Serial Console<a name="configure-access-to-serial-console"></a>
 
 To configure access to the serial console, you must grant serial console access at the account level and then configure IAM policies to grant access to your users\. You must also configure a password\-based user on every instance so that your users can use the serial console for troubleshooting\.

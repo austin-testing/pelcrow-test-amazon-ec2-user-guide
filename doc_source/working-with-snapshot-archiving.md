@@ -1,3 +1,13 @@
+---
+title: "Work with snapshot archiving"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Work with snapshot archiving<a name="working-with-snapshot-archiving"></a>
 
 **Topics**

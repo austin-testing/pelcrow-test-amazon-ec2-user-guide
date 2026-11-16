@@ -1,3 +1,13 @@
+---
+title: "Tutorial: Launch On-Demand Instances using targeted Capacity Reservations"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Scaling","Launch"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Tutorial: Launch On\-Demand Instances using targeted Capacity Reservations<a name="ec2-fleet-launch-on-demand-instances-using-targeted-capacity-reservations-walkthrough"></a>
 
 This tutorial walks you through all the steps that you must perform so that your EC2 Fleet launches On\-Demand Instances into `targeted` Capacity Reservations\.

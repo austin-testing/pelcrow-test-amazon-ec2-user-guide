@@ -1,3 +1,13 @@
+---
+title: "Setting up Dual 4K displays on G4ad"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Setting up Dual 4K displays on G4ad<a name="activate_g4ad_4k"></a>
 
 **Launch a G4ad instance**

@@ -1,3 +1,13 @@
+---
+title: "Get started with EFA and NCCL"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Getting Started","Performance Optimization"]
+audience: ["Developer"]
+platform: ["EC2","Networking"]
+---
+
 # Get started with EFA and NCCL<a name="efa-start-nccl"></a>
 
 The NVIDIA Collective Communications Library \(NCCL\) is a library of standard collective communication routines for multiple GPUs across a single node or multiple nodes\. NCCL can be used together with EFA, Libfabric, and MPI to support various machine learning workloads\. For more information, see the [NCCL](https://developer.nvidia.com/nccl) website\.

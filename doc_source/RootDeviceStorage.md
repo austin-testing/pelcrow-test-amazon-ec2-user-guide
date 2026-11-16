@@ -1,3 +1,13 @@
+---
+title: "Amazon EC2 instance root device volume"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Storage"]
+---
+
 # Amazon EC2 instance root device volume<a name="RootDeviceStorage"></a>
 
 When you launch an instance, the *root device volume* contains the image used to boot the instance\. When we introduced Amazon EC2, all AMIs were backed by Amazon EC2 instance store, which means the root device for an instance launched from the AMI is an instance store volume created from a template stored in Amazon S3\. After we introduced Amazon EBS, we introduced AMIs that are backed by Amazon EBS\. This means that the root device for an instance launched from the AMI is an Amazon EBS volume created from an Amazon EBS snapshot\.

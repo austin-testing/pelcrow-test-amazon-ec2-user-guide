@@ -1,3 +1,13 @@
+---
+title: "Required IAM permissions"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Security","Disaster Recovery"]
+audience: ["Security Architect"]
+platform: ["EC2","IAM"]
+---
+
 # Required IAM permissions<a name="recycle-bin-perms"></a>
 
 By default, users don't have permission to work with Recycle Bin, retention rules, or with resources that are in the Recycle Bin\. To allow users to work with these resources, you must create IAM policies that grant permission to use specific resources and API actions\. Once the policies are created, you must add permissions to your users, groups, or roles\.

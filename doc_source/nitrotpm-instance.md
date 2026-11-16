@@ -1,3 +1,13 @@
+---
+title: "Enable or stop using NitroTPM on an instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Security","Performance Optimization"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Enable or stop using NitroTPM on an instance<a name="nitrotpm-instance"></a>
 
 When you launch an instance from an AMI that has NitroTPM support enabled, the instance launches with NitroTPM enabled\. You can configure the instance to stop using NitroTPM\. You can verify whether an instance is enabled for NitroTPM\.

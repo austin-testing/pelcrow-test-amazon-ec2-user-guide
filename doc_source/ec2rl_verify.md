@@ -1,3 +1,13 @@
+---
+title: "(Optional) Verify the signature of EC2Rescue for Linux"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux"]
+---
+
 # \(Optional\) Verify the signature of EC2Rescue for Linux<a name="ec2rl_verify"></a>
 
 The following is the recommended process of verifying the validity of the EC2Rescue for Linux package for Linux\-based operating systems\.

@@ -1,3 +1,13 @@
+---
+title: "Make an Amazon EBS volume available for use on Linux"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Make an Amazon EBS volume available for use on Linux<a name="ebs-using-volumes"></a>
 
 After you attach an Amazon EBS volume to your instance, it is exposed as a block device\. You can format the volume with any file system and then mount it\. After you make the EBS volume available for use, you can access it in the same ways that you access any other volume\. Any data written to this file system is written to the EBS volume and is transparent to applications using the device\.

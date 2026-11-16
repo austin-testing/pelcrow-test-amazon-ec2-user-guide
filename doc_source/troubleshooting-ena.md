@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot the Elastic Network Adapter (ENA)"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # Troubleshoot the Elastic Network Adapter \(ENA\)<a name="troubleshooting-ena"></a>
 
 The Elastic Network Adapter \(ENA\) is designed to improve operating system health and reduce the chances of long\-term disruption because of unexpected hardware behavior and or failures\. The ENA architecture keeps device or driver failures as transparent to the system as possible\. This topic provides troubleshooting information for ENA\.

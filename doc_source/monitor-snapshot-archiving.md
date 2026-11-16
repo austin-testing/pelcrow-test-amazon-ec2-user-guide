@@ -1,3 +1,13 @@
+---
+title: "Monitor snapshot archiving"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery","Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Monitor snapshot archiving<a name="monitor-snapshot-archiving"></a>
 
 Amazon EBS emits events related to snapshot archiving actions\. You can use AWS Lambda and Amazon CloudWatch Events to handle event notifications programmatically\. Events are emitted on a best effort basis\. For more information, see the [Amazon CloudWatch Events User Guide](https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/)\.

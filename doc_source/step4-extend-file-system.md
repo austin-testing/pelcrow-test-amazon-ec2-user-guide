@@ -1,3 +1,13 @@
+---
+title: "Step 4: Extend the file system"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Step 4: Extend the file system<a name="step4-extend-file-system"></a>
 
 Once the data volume enters the `optimizing` state, you can use file system\-specific commands to extend the file system to the new, larger size\.

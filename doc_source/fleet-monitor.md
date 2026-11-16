@@ -1,3 +1,13 @@
+---
+title: "Monitor fleet events using Amazon EventBridge"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Monitor fleet events using Amazon EventBridge<a name="fleet-monitor"></a>
 
 When the state of an EC2 Fleet or Spot Fleet changes, the fleet emits a notification\. The notification is made available as an event that is sent to Amazon EventBridge \(formerly known as Amazon CloudWatch Events\)\. Events are emitted on a best effort basis\.

@@ -1,3 +1,13 @@
+---
+title: "Best practices for monitoring"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Best practices for monitoring<a name="monitoring_best_practices"></a>
 
 Use the following best practices for monitoring to help you with your Amazon EC2 monitoring tasks\.

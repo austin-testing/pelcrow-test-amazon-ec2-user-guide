@@ -1,3 +1,13 @@
+---
+title: "Define event windows for scheduled events"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Windows"]
+---
+
 # Define event windows for scheduled events<a name="event-windows"></a>
 
 You can define custom event windows that recur weekly for scheduled events that reboot, stop, or terminate your Amazon EC2 instances\. You can associate one or more instances with an event window\. If a scheduled event for those instances is planned, AWS will schedule the events within the associated event window\.

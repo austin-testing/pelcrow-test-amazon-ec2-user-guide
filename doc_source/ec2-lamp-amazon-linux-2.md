@@ -1,3 +1,13 @@
+---
+title: "Install LAMP on Amazon Linux 2"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Install LAMP on Amazon Linux 2<a name="ec2-lamp-amazon-linux-2"></a>
 
 The following procedures help you install an Apache web server with PHP and [MariaDB](https://mariadb.org/about/) \(a community\-developed fork of MySQL\) support on your Amazon Linux 2 instance \(sometimes called a LAMP web server or LAMP stack\)\. You can use this server to host a static website or deploy a dynamic PHP application that reads and writes information to a database\.

@@ -1,3 +1,13 @@
+---
+title: "EC2 Fleet configuration strategies"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # EC2 Fleet configuration strategies<a name="ec2-fleet-configuration-strategies"></a>
 
 An *EC2 Fleet* is a group of On\-Demand Instances and Spot Instances\. 

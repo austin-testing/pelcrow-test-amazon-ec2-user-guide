@@ -1,3 +1,13 @@
+---
+title: "IAM permissions for EBS direct APIs"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Storage","IAM"]
+---
+
 # IAM permissions for EBS direct APIs<a name="ebsapi-permissions"></a>
 
 A user must have the following policies to use the EBS direct APIs\. For more information, see [ Changing permissions for a user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_change-permissions.html)\.

@@ -1,3 +1,13 @@
+---
+title: "Automate snapshot lifecycles"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery","Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","Storage","AMI"]
+---
+
 # Automate snapshot lifecycles<a name="snapshot-ami-policy"></a>
 
 The following procedure shows you how to use Amazon Data Lifecycle Manager to automate Amazon EBS snapshot lifecycles\.

@@ -1,3 +1,13 @@
+---
+title: "View, modify, and delete lifecycle policies"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # View, modify, and delete lifecycle policies<a name="view-modify-delete"></a>
 
 Use the following procedures to view, modify and delete existing lifecycle policies\.

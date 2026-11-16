@@ -1,3 +1,13 @@
+---
+title: "Status checks for your instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Status checks for your instances<a name="monitoring-system-instance-status-check"></a>
 
 With instance status monitoring, you can quickly determine whether Amazon EC2 has detected any problems that might prevent your instances from running applications\. Amazon EC2 performs automated checks on every running EC2 instance to identify hardware and software issues\. You can view the results of these status checks to identify specific and detectable problems\. The event status data augments the information that Amazon EC2 already provides about the state of each instance \(such as `pending`, `running`, `stopping`\) and the utilization metrics that Amazon CloudWatch monitors \(CPU utilization, network traffic, and disk activity\)\.

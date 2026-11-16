@@ -1,3 +1,13 @@
+---
+title: "Amazon Elastic Inference"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Amazon Elastic Inference<a name="elastic-inference"></a>
 
 **Note**  

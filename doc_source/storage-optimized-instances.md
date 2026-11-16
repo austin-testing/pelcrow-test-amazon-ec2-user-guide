@@ -1,3 +1,13 @@
+---
+title: "Storage optimized instances"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Storage"]
+---
+
 # Storage optimized instances<a name="storage-optimized-instances"></a>
 
 Storage optimized instances are designed for workloads that require high, sequential read and write access to very large data sets on local storage\. They are optimized to deliver tens of thousands of low\-latency, random I/O operations per second \(IOPS\) to applications\. For more information, including the technology used, see the [Amazon EC2 Instance Type Details](http://aws.amazon.com/ec2/instance-types/) page\.<a name="d2-instances"></a>

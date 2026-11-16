@@ -1,3 +1,13 @@
+---
+title: "Find a Linux AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Find a Linux AMI<a name="finding-an-ami"></a>
 
 Before you can launch an instance, you must select an AMI from which to launch the instance\. When you select an AMI, consider the following requirements you might have for the instances that you want to launch:

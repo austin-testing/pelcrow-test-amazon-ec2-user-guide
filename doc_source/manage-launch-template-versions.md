@@ -1,3 +1,13 @@
+---
+title: "Modify a launch template (manage launch template versions)"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Modify a launch template \(manage launch template versions\)<a name="manage-launch-template-versions"></a>
 
 Launch templates are immutable; after you create a launch template, you can't modify it\. Instead, you can create a new version of the launch template that includes any changes you require\.

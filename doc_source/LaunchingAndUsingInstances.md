@@ -1,3 +1,13 @@
+---
+title: "Launch your instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Launch your instance<a name="LaunchingAndUsingInstances"></a>
 
 An instance is a virtual server in the AWS Cloud\. You launch an instance from an Amazon Machine Image \(AMI\)\. The AMI provides the operating system, application server, and applications for your instance\.

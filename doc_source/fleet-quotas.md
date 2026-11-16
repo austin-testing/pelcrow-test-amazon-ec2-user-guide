@@ -1,3 +1,13 @@
+---
+title: "Fleet quotas"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Scaling","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Fleet quotas<a name="fleet-quotas"></a>
 
 The usual Amazon EC2 quotas \(formerly referred to as limits\) apply to instances launched by an EC2 Fleet or a Spot Fleet, such as [Spot Instance limits](using-spot-limits.md) and [volume limits](volume_limits.md)\.

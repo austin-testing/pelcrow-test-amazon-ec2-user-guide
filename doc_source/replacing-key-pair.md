@@ -1,3 +1,13 @@
+---
+title: "Add or remove a public key on your instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Add or remove a public key on your instance<a name="replacing-key-pair"></a>
 
 When you launch an instance, you can [specify a key pair](ec2-launch-instance-wizard.md#liw-key-pair)\. If you specify a key pair at launch, when your instance boots for the first time, the public key material is placed on your Linux instance in an entry within `~/.ssh/authorized_keys`\.

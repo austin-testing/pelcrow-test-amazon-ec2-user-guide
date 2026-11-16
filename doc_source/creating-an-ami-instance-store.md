@@ -1,3 +1,13 @@
+---
+title: "Create an instance store-backed Linux AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Create an instance store\-backed Linux AMI<a name="creating-an-ami-instance-store"></a>
 
 The AMI that you specify when you launch your instance determines the type of root device volume\.

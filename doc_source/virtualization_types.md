@@ -1,3 +1,13 @@
+---
+title: "Linux AMI virtualization types"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Linux AMI virtualization types<a name="virtualization_types"></a>
 
 Linux Amazon Machine Images use one of two types of virtualization: paravirtual \(PV\) or hardware virtual machine \(HVM\)\. The main differences between PV and HVM AMIs are the way in which they boot and whether they can take advantage of special hardware extensions \(CPU, network, and storage\) for better performance\.

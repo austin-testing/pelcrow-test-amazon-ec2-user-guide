@@ -1,3 +1,13 @@
+---
+title: "Clean up"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Clean up<a name="tutorial-ec2-rds-clean-up"></a>
 
 Now that you have completed the tutorial, it is good practice to clean up \(delete\) any resources you no longer want to use\. Cleaning up AWS resources prevents your account from incurring any further charges\.

@@ -1,3 +1,13 @@
+---
+title: "Example policies for working in the Amazon EC2 console"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","IAM"]
+---
+
 # Example policies for working in the Amazon EC2 console<a name="iam-policies-ec2-console"></a>
 
 You must grant users the permissions they require for Amazon EC2 using IAM policies\. You can use IAM policies to grant users permissions to view and work with specific resources in the Amazon EC2 console\. You can use the example policies in the previous section; however, they are designed for requests that are made with the AWS CLI or an AWS SDK\. For more information, see [Example policies for working with the AWS CLI or an AWS SDK](ExamplePolicies_EC2.md) and [Creating IAM policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create.html) in the IAM User Guide\. 

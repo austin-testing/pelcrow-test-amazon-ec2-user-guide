@@ -1,3 +1,13 @@
+---
+title: "Specify CPU options for your instance"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Specify CPU options for your instance<a name="instance-specify-cpu-options"></a>
 
 You can specify CPU options during instance launch\.

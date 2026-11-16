@@ -1,3 +1,13 @@
+---
+title: "Add instance store volumes to your EC2 instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Add instance store volumes to your EC2 instance<a name="add-instance-store-volumes"></a>
 
 You specify the EBS volumes and instance store volumes for your instance using a block device mapping\. Each entry in a block device mapping includes a device name and the volume that it maps to\. The default block device mapping is specified by the AMI you use\. Alternatively, you can specify a block device mapping for the instance when you launch it\.

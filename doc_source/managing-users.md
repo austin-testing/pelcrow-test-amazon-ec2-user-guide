@@ -1,3 +1,13 @@
+---
+title: "Manage users on your Linux instance"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Manage users on your Linux instance<a name="managing-users"></a>
 
 Each Linux instance launches with a default Linux system user\. You can add users to your instance and delete users\.

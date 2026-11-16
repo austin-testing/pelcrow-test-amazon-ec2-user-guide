@@ -1,3 +1,13 @@
+---
+title: "Amazon Linux"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Amazon Linux<a name="amazon-linux-ami-basics"></a>
 
 Amazon Linux is provided by Amazon Web Services \(AWS\)\. It is designed to provide a stable, secure, and high\-performance execution environment for applications running on Amazon EC2\. It also includes packages that enable easy integration with AWS, including launch configuration tools and many popular AWS libraries and tools\. AWS provides ongoing security and maintenance updates for all instances running Amazon Linux\. Many applications developed on CentOS \(and similar distributions\) run on Amazon Linux\.

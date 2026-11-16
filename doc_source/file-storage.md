@@ -1,3 +1,13 @@
+---
+title: "File storage"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # File storage<a name="file-storage"></a>
 
 Cloud file storage is a method for storing data in the cloud that provides servers and applications access to data through shared file systems\. This compatibility makes cloud file storage ideal for workloads that rely on shared file systems and provides simple integration without code changes\.

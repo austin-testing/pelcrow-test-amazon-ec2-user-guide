@@ -1,3 +1,13 @@
+---
+title: "Regional and zonal Reserved Instances (scope)"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning","Architecture Design"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Regional and zonal Reserved Instances \(scope\)<a name="reserved-instances-scope"></a>
 
 When you purchase a Reserved Instance, you determine the scope of the Reserved Instance\. The scope is either regional or zonal\. 

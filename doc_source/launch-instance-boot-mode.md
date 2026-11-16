@@ -1,3 +1,13 @@
+---
+title: "Launch an instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Launch an instance<a name="launch-instance-boot-mode"></a>
 
 You can launch an instance in UEFI or Legacy BIOS boot mode\.

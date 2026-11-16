@@ -1,3 +1,13 @@
+---
+title: "Prerequisites for launching Linux instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Security","Performance Optimization","Launch"]
+audience: ["Security Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Prerequisites for launching Linux instances<a name="enable-nitrotpm-prerequisites"></a>
 
 To launch a Linux instance with NitroTPM enabled, the following prerequisites must be in place\. For the prerequisites for launching a Windows instance, see [Prerequisites for launching Windows instances](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/enable-nitrotpm-prerequisites.html) in the *Amazon EC2 User Guide for Windows Instances***\.

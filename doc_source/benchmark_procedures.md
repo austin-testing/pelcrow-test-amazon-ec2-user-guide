@@ -1,3 +1,13 @@
+---
+title: "Benchmark EBS volumes"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Benchmark EBS volumes<a name="benchmark_procedures"></a>
 
 You can test the performance of Amazon EBS volumes by simulating I/O workloads\. The process is as follows:

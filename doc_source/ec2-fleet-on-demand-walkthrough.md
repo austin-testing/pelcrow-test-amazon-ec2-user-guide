@@ -1,3 +1,13 @@
+---
+title: "Tutorial: Use EC2 Fleet with On-Demand as the primary capacity"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Tutorial: Use EC2 Fleet with On\-Demand as the primary capacity<a name="ec2-fleet-on-demand-walkthrough"></a>
 
 This tutorial uses a fictitious company called ABC Online to illustrate the process of requesting an EC2 Fleet with On\-Demand as the primary capacity, and Spot capacity if available\.

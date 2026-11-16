@@ -1,3 +1,13 @@
+---
+title: "Convert your instance store-backed AMI to an Amazon EBS-backed AMI"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Migration Strategy"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux","Storage","AMI"]
+---
+
 # Convert your instance store\-backed AMI to an Amazon EBS\-backed AMI<a name="Using_ConvertingS3toEBS"></a>
 
 You can convert an instance store\-backed Linux AMI that you own to an Amazon EBS\-backed Linux AMI\. 

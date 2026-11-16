@@ -1,3 +1,13 @@
+---
+title: "Spot Instance request example launch specifications"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Spot Instance request example launch specifications<a name="spot-request-examples"></a>
 
 The following examples show launch configurations that you can use with the [request\-spot\-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/request-spot-instances.html) command to create a Spot Instance request\. For more information, see [Create a Spot Instance request](spot-requests.md#using-spot-instances-request)\.

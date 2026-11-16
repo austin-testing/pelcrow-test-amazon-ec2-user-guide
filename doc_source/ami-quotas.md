@@ -1,3 +1,13 @@
+---
+title: "AMI quotas"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","AMI"]
+---
+
 # AMI quotas<a name="ami-quotas"></a>
 
 The following quotas apply to creating and sharing AMIs\. The quotas apply per AWS Region\.

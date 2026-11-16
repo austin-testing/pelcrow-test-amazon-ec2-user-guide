@@ -1,3 +1,13 @@
+---
+title: "Connect to your Linux instance from Windows using OpenSSH"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Windows"]
+---
+
 # Connect to your Linux instance from Windows using OpenSSH<a name="openssh"></a>
 
 The following procedures show you how to connect to your Linux instance from Windows using OpenSSH, an open source connectivity tool for remote login with the SSH protocol\. OpenSSH is supported on Windows Server 2019 and later operating systems\.

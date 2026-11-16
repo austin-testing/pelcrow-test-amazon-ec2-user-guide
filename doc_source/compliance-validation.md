@@ -1,3 +1,13 @@
+---
+title: "Compliance validation for Amazon EC2"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Compliance"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Compliance validation for Amazon EC2<a name="compliance-validation"></a>
 
 To learn whether an AWS service is within the scope of specific compliance programs, see [AWS services in Scope by Compliance Program](http://aws.amazon.com/compliance/services-in-scope/) and choose the compliance program that you are interested in\. For general information, see [AWS Compliance Programs](http://aws.amazon.com/compliance/programs/)\.

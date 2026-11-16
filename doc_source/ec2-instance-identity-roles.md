@@ -1,3 +1,13 @@
+---
+title: "Instance identity roles"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Instance identity roles<a name="ec2-instance-identity-roles"></a>
 
 Each instance that you launch has an *instance identity role* that represents its identity\. An instance identity role is a type of IAM role\. AWS services and features that are integrated to use the instance identity role can use it to identify the instance to the service\.

@@ -1,3 +1,13 @@
+---
+title: "Resource locations"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Resource locations<a name="resources"></a>
 
 Amazon EC2 resources are specific to the AWS Region or Availability Zone in which they reside\.

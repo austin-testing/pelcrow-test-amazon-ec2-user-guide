@@ -1,3 +1,13 @@
+---
+title: "Permissions for encryption"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security","Automation"]
+audience: ["Security Architect"]
+platform: ["EC2","IAM"]
+---
+
 # Permissions for encryption<a name="dlm-access-cmk"></a>
 
 Consider the following when working with Amazon Data Lifecycle Manager and encrypted resources\.

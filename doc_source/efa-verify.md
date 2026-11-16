@@ -1,3 +1,13 @@
+---
+title: "Verify the EFA installer using a checksum"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # Verify the EFA installer using a checksum<a name="efa-verify"></a>
 
 You can optionally verify the EFA tarball \(\.tar\.gz file\) using an MD5 or SHA256 checksum\. We recommend that you do this to verify the identity of the software publisher and to check that the application has not been altered or corrupted since it was published\.

@@ -1,3 +1,13 @@
+---
+title: "Spot Fleet instance weighting"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Spot Fleet instance weighting<a name="spot-instance-weighting"></a>
 
 When you request a fleet of Spot Instances, you can define the capacity units that each instance type would contribute to your application's performance, and adjust your maximum price for each Spot capacity pool accordingly using *instance weighting*\.

@@ -1,3 +1,13 @@
+---
+title: "Maximum price overrides"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning","Scaling"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Maximum price overrides<a name="ec2-fleet-price-overrides"></a>
 
 Each EC2 Fleet can either include a global maximum price, or use the default \(the On\-Demand price\)\. The fleet uses this as the default maximum price for each of its launch specifications\.

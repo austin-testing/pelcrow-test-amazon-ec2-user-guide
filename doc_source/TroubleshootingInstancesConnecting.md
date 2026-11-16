@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot connecting to your instance"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Troubleshoot connecting to your instance<a name="TroubleshootingInstancesConnecting"></a>
 
 The following information and common errors can help you troubleshoot connecting to your Linux instance\. 

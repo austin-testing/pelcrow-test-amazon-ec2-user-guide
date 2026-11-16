@@ -1,3 +1,13 @@
+---
+title: "AMI billing information fields"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # AMI billing information fields<a name="billing-info-fields"></a>
 
 The following fields provide billing information associated with an AMI:

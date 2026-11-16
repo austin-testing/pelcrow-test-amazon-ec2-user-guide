@@ -1,3 +1,13 @@
+---
+title: "Verify keys"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Verify keys<a name="verify-keys"></a>
 
 ## Verify your key pair's fingerprint<a name="verify-key-pair-fingerprints"></a>

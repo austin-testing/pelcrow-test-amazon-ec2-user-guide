@@ -1,3 +1,13 @@
+---
+title: "Task 2: Create an RDS database – *optional*"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Task 2: Create an RDS database – *optional*<a name="option3-task2-create-rds-database"></a>
 
 **Note**  

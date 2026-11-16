@@ -1,3 +1,13 @@
+---
+title: "Initiate a Spot Instance interruption"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Initiate a Spot Instance interruption<a name="initiate-a-spot-instance-interruption"></a>
 
 You can select a Spot Instance in the Amazon EC2 console and initiate an interruption so that you can test how the applications on your Spot Instances handle being interrupted\. When you initiate a Spot Instance interruption, Amazon EC2 notifies you that your Spot Instance will be interrupted in two minutes, and then, after two minutes, Amazon EC2 interrupts the Spot Instance\.

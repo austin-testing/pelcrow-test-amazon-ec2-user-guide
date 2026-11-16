@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot your Linux instance using SysRq"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Troubleshoot your Linux instance using SysRq<a name="SysRq"></a>
 
 The System Request \(SysRq\) key, which is sometimes referred to as "magic SysRq", can be used to directly send the kernel a command, outside of a shell, and the kernel will respond, regardless of what the kernel is doing\. For example, if the instance has stopped responding, you can use the SysRq key to tell the kernel to crash or reboot\. For more information, see [Magic SysRq key](https://en.wikipedia.org/wiki/Magic_SysRq_key) in Wikipedia\.

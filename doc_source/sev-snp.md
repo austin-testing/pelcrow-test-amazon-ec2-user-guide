@@ -1,3 +1,13 @@
+---
+title: "AMD SEV-SNP"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # AMD SEV\-SNP<a name="sev-snp"></a>
 
 AMD Secure Encrypted Virtualization\-Secure Nested Paging \(AMD SEV\-SNP\) is a CPU feature that provides the following properties:

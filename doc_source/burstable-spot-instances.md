@@ -1,3 +1,13 @@
+---
+title: "Burstable performance instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Burstable performance instances<a name="burstable-spot-instances"></a>
 
 The T instance types are [burstable performance instances](burstable-performance-instances.md)\. If you launch your Spot Instances using a burstable performance instance type, and if you plan to use your burstable performance Spot Instances immediately and for a short duration, with no idle time for accruing CPU credits, we recommend that you launch them in [Standard mode](burstable-performance-instances-standard-mode.md) to avoid paying higher costs\. If you launch burstable performance Spot Instances in [Unlimited mode](burstable-performance-instances-unlimited-mode.md) and burst CPU immediately, you'll spend surplus credits for bursting\. If you use the instance for a short duration, the instance doesn't have time to accrue CPU credits to pay down the surplus credits, and you are charged for the surplus credits when you terminate the instance\.

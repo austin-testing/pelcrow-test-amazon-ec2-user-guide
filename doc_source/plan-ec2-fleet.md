@@ -1,3 +1,13 @@
+---
+title: "Plan an EC2 Fleet"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Plan an EC2 Fleet<a name="plan-ec2-fleet"></a>
 
 When planning your EC2 Fleet, we recommend that you do the following:

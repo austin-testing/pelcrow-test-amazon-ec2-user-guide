@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot an unreachable instance"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Troubleshoot an unreachable instance<a name="instance-console"></a>
 
 You can use the following methods to troubleshoot an unreachable Linux instance\. For information about troubleshooting an unreachable Windows instance, see [Troubleshoot an unreachable instance](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/screenshot-service.html)\.

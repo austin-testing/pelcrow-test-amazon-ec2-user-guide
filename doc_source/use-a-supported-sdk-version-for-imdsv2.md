@@ -1,3 +1,13 @@
+---
+title: "Use a supported AWS SDK"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Use a supported AWS SDK<a name="use-a-supported-sdk-version-for-imdsv2"></a>
 
 To use IMDSv2, your EC2 instances must use an AWS SDK version that supports using IMDSv2\. The latest versions of the all AWS SDKs support using IMDSv2\.

@@ -1,3 +1,13 @@
+---
+title: "Use the RSA-2048 signature to verify the instance identity document"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Use the RSA\-2048 signature to verify the instance identity document<a name="verify-rsa2048"></a>
 
 This topic explains how to verify the instance identity document using the RSA\-2048 signature and the AWS RSA\-2048 public certificate\.

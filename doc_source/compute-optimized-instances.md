@@ -1,3 +1,13 @@
+---
+title: "Compute optimized instances"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Compute optimized instances<a name="compute-optimized-instances"></a>
 
 Compute optimized instances are ideal for compute\-bound applications that benefit from high\-performance processors\.

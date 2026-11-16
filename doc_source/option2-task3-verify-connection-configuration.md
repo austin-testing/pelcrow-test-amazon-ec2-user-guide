@@ -1,3 +1,13 @@
+---
+title: "Task 3: Verify the connection configuration"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Task 3: Verify the connection configuration<a name="option2-task3-verify-connection-configuration"></a>
 
 ## Task objective<a name="option2-task3-verify-connection-configuration-task-objective"></a>

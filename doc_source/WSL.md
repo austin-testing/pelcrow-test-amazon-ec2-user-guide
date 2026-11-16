@@ -1,3 +1,13 @@
+---
+title: "Connect to your Linux instance from Windows using Windows Subsystem for Linux"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Windows"]
+---
+
 # Connect to your Linux instance from Windows using Windows Subsystem for Linux<a name="WSL"></a>
 
 After you launch your instance, you can connect to it and use it the way that you'd use a computer sitting in front of you\.

@@ -1,3 +1,13 @@
+---
+title: "Install EC2Rescue for Linux"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Install EC2Rescue for Linux<a name="ec2rl_install"></a>
 
 The EC2Rescue for Linux tool can be installed on an Amazon EC2 Linux instance that meets the following prerequisites\.

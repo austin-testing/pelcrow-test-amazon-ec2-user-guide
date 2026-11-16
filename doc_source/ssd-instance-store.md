@@ -1,3 +1,13 @@
+---
+title: "SSD instance store volumes"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # SSD instance store volumes<a name="ssd-instance-store"></a>
 
 To ensure the best IOPS performance from your SSD instance store volumes on Linux, we recommend that you use the most recent version of Amazon Linux, or another Linux AMI with a kernel version of 3\.8 or later\. If you do not use a Linux AMI with a kernel version of 3\.8 or later, your instance won't achieve the maximum IOPS performance available for these instance types\.

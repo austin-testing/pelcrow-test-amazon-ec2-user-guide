@@ -1,3 +1,13 @@
+---
+title: "Task 1: Launch an EC2 instance – *optional*"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Task 1: Launch an EC2 instance – *optional*<a name="option2-task1-launch-ec2-instance"></a>
 
 **Note**  

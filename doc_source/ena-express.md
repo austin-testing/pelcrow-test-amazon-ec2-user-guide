@@ -1,3 +1,13 @@
+---
+title: "Improve network performance with ENA Express on Linux instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Networking"]
+---
+
 # Improve network performance with ENA Express on Linux instances<a name="ena-express"></a>
 
 ENA Express is powered by AWS Scalable Reliable Datagram \(SRD\) technology\. SRD is a high performance network transport protocol that uses dynamic routing to increase throughput and minimize tail latency\. With ENA Express, you can communicate between two EC2 instances in the same subnet\.

@@ -1,3 +1,13 @@
+---
+title: "Amazon EBS fast snapshot restore"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Amazon EBS fast snapshot restore<a name="ebs-fast-snapshot-restore"></a>
 
 Amazon EBS fast snapshot restore \(FSR\) enables you to create a volume from a snapshot that is fully initialized at creation\. This eliminates the latency of I/O operations on a block when it is accessed for the first time\. Volumes that are created using fast snapshot restore instantly deliver all of their provisioned performance\.

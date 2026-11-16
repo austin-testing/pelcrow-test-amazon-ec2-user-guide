@@ -1,3 +1,13 @@
+---
+title: "Set up to use Amazon EC2"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Set up to use Amazon EC2<a name="get-set-up-for-amazon-ec2"></a>
 
 Complete the tasks in this section to get set up for launching an Amazon EC2 instance for the first time: 

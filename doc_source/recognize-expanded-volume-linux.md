@@ -1,3 +1,13 @@
+---
+title: "Extend a Linux file system after resizing a volume"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Storage"]
+---
+
 # Extend a Linux file system after resizing a volume<a name="recognize-expanded-volume-linux"></a>
 
 **Note**  

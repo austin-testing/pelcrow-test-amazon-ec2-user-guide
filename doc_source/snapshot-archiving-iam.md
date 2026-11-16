@@ -1,3 +1,13 @@
+---
+title: "Required IAM permissions"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Security","Disaster Recovery"]
+audience: ["Security Architect"]
+platform: ["EC2","Storage","IAM"]
+---
+
 # Required IAM permissions<a name="snapshot-archiving-iam"></a>
 
 By default, users don't have permission to use snapshot archiving\. To allow users to use snapshot archiving, you must create IAM policies that grant permission to use specific resources and API actions\. For more information, see [Creating IAM policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create.html) in the IAM User Guide\.

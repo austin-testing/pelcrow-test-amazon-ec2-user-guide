@@ -1,3 +1,13 @@
+---
+title: "Create an AMI from an instance store-backed instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Create an AMI from an instance store\-backed instance<a name="create-instance-store-ami"></a>
 
 The following procedures are for creating an instance store\-backed AMI from an instance store\-backed instance\. Before you begin, ensure that you've read the [Prerequisites](creating-an-ami-instance-store.md#bundle-ami-prerequisites)\.

@@ -1,3 +1,13 @@
+---
+title: "EC2 Fleet request types"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # EC2 Fleet request types<a name="ec2-fleet-request-type"></a>
 
 There are three types of EC2 Fleet requests: 

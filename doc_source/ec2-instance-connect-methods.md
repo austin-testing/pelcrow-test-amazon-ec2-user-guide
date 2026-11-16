@@ -1,3 +1,13 @@
+---
+title: "Connect using EC2 Instance Connect"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Connect using EC2 Instance Connect<a name="ec2-instance-connect-methods"></a>
 
 The following instructions explain how to connect to your Linux instance using EC2 Instance Connect\.

@@ -1,3 +1,13 @@
+---
+title: "Connect your EC2 instance to an AWS resource"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Connect your EC2 instance to an AWS resource<a name="connect-instance-to-resources"></a>
 
 After you launch an instance, you can connect it to one or more AWS resources\.

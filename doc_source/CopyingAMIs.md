@@ -1,3 +1,13 @@
+---
+title: "Copy an AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Copy an AMI<a name="CopyingAMIs"></a>
 
 You can copy an Amazon Machine Image \(AMI\) within or across AWS Regions\. You can copy both Amazon EBS\-backed AMIs and instance\-store\-backed AMIs\. You can copy AMIs with encrypted snapshots and also change encryption status during the copy process\. You can copy AMIs that are shared with you\.

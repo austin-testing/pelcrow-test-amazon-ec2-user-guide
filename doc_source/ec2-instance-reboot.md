@@ -1,3 +1,13 @@
+---
+title: "Reboot your instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Reboot your instance<a name="ec2-instance-reboot"></a>
 
 An instance reboot is equivalent to an operating system reboot\. In most cases, it takes only a few minutes to reboot your instance\.

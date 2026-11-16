@@ -1,3 +1,13 @@
+---
+title: "CPU cores and threads per CPU core per instance type"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # CPU cores and threads per CPU core per instance type<a name="cpu-options-supported-instances-values"></a>
 
 The following tables list the instance types that support specifying CPU options\.

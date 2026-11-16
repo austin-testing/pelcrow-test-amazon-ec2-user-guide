@@ -1,3 +1,13 @@
+---
+title: "Tutorials for EC2 Fleet and Spot Fleet"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Tutorials for EC2 Fleet and Spot Fleet<a name="fleet-tutorials"></a>
 
 The following tutorials take you through the common processes for creating EC2 Fleets and Spot Fleets\.

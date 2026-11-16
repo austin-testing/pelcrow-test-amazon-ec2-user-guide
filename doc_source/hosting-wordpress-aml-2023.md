@@ -1,3 +1,13 @@
+---
+title: "Host a WordPress blog on Amazon Linux 2023"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Host a WordPress blog on Amazon Linux 2023<a name="hosting-wordpress-aml-2023"></a>
 
 The following procedures will help you install, configure, and secure a WordPress blog on your Amazon Linux 2023 instance\. This tutorial is a good introduction to using Amazon EC2 in that you have full control over a web server that hosts your WordPress blog, which is not typical with a traditional hosting service\.

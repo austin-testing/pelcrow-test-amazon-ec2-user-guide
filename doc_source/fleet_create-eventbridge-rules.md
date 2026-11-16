@@ -1,3 +1,13 @@
+---
+title: "Create Amazon EventBridge rules"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Create Amazon EventBridge rules<a name="fleet_create-eventbridge-rules"></a>
 
 When a notification of a state change is emitted for an EC2 Fleet or Spot Fleet, the event for the notification is sent to Amazon EventBridge\. If EventBridge detects an event pattern that matches a pattern defined in a rule, EventBridge invokes a target \(or targets\) specified in the rule\.

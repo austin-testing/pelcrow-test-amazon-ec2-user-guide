@@ -1,3 +1,13 @@
+---
+title: "Automated and manual monitoring"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Automated and manual monitoring<a name="monitoring_automated_manual"></a>
 
 AWS provides various tools that you can use to monitor Amazon EC2\. You can configure some of these tools to do the monitoring for you, while some of the tools require manual intervention\.

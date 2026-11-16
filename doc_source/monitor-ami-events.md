@@ -1,3 +1,13 @@
+---
+title: "Monitor AMI events using Amazon EventBridge"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Monitor AMI events using Amazon EventBridge<a name="monitor-ami-events"></a>
 
 When the state of an Amazon Machine Image \(AMI\) changes, Amazon EC2 generates an event that is sent to Amazon EventBridge \(formerly known as Amazon CloudWatch Events\)\. You can use Amazon EventBridge to detect and react to these events\. You do this by creating rules in EventBridge that trigger an action in response to an event\. For example, you can create an EventBridge rule that detects when the AMI creation process has completed and then invokes an Amazon SNS topic to send an email notification to you\.

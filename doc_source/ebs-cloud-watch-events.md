@@ -1,3 +1,13 @@
+---
+title: "EventBridge for Amazon EBS"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage","CloudWatch"]
+---
+
 # EventBridge for Amazon EBS<a name="ebs-cloud-watch-events"></a>
 
 Amazon EBS sends events to Amazon EventBridge for actions performed on volumes and snapshots\. With EventBridge, you can establish rules that trigger programmatic actions in response to these events\. For example, you can create a rule that sends a notification to your email when a snapshot is enabled for fast snapshot restore\.

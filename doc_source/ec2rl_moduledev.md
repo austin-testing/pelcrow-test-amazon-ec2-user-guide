@@ -1,3 +1,13 @@
+---
+title: "Develop EC2Rescue modules"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Develop EC2Rescue modules<a name="ec2rl_moduledev"></a>
 
 Modules are written in YAML, a data serialization standard\. A module's YAML file consists of a single document, representing the module and its attributes\.

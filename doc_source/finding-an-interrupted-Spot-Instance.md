@@ -1,3 +1,13 @@
+---
+title: "Find interrupted Spot Instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Find interrupted Spot Instances<a name="finding-an-interrupted-Spot-Instance"></a>
 
 In the console, the **Instances** pane displays all instances, including Spot Instances\. You can identify a Spot Instance from the `spot` value in the **Instance lifecycle** column\. The **Instance state** column indicates whether the instance is `pending`, `running`, `stopping`, `stopped`, `shutting-down`, or `terminated`\. For a hibernated Spot Instance, the instance state is `stopped`\.

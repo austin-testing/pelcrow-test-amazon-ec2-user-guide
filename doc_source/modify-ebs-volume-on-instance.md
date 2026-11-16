@@ -1,3 +1,13 @@
+---
+title: "Tutorial: Increase the size of an Amazon EBS volume on an EC2 instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Tutorial: Increase the size of an Amazon EBS volume on an EC2 instance<a name="modify-ebs-volume-on-instance"></a>
 
 This tutorial shows you how to launch an Amazon EC2 instance and add an Amazon Elastic Block Store \(Amazon EBS\) volume using the EC2 launch instance wizard\. The added volume must be formatted with a file system and mounted to be available for use\. Suppose, after using this configuration for six months, your added volume is full\. This tutorial shows you how to double the size of the added volume, and extend the file system\.

@@ -1,3 +1,13 @@
+---
+title: "Considerations"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Considerations<a name="nitrotpm-considerations"></a>
 
 The following considerations apply when using NitroTPM:

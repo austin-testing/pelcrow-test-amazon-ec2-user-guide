@@ -1,3 +1,13 @@
+---
+title: "Tutorial: Use Spot Fleet with instance weighting"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Tutorial: Use Spot Fleet with instance weighting<a name="instance-weighting-walkthrough"></a>
 
 This tutorial uses a fictitious company called Example Corp to illustrate the process of requesting a Spot Fleet using instance weighting\.

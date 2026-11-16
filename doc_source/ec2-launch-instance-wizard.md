@@ -1,3 +1,13 @@
+---
+title: "Launch an instance using the new launch instance wizard"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Launch an instance using the new launch instance wizard<a name="ec2-launch-instance-wizard"></a>
 
 You can launch an instance using the new launch instance wizard\. The launch instance wizard specifies the launch parameters that are required for launching an instance\. Where the launch instance wizard provides a default value, you can accept the default or specify your own value\. If you accept the default values, then it's possible to launch an instance by selecting only a key pair\.

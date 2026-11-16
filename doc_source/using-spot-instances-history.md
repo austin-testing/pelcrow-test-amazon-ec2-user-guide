@@ -1,3 +1,13 @@
+---
+title: "Spot Instance pricing history"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Spot Instance pricing history<a name="using-spot-instances-history"></a>
 
 Spot Instance prices are set by Amazon EC2 and adjust gradually based on long\-term trends in supply and demand for Spot Instance capacity\.

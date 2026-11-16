@@ -1,3 +1,13 @@
+---
+title: "Get recommendations for an instance type"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Get recommendations for an instance type<a name="ec2-instance-recommendations"></a>
 
 AWS Compute Optimizer provides Amazon EC2 instance recommendations to help you improve performance, save money, or both\. You can use these recommendations to decide whether to move to a new instance type\.

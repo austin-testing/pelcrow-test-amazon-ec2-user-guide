@@ -1,3 +1,13 @@
+---
+title: "Read snapshots with EBS direct APIs"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Read snapshots with EBS direct APIs<a name="readsnapshots"></a>
 
 The following steps describe how to use the EBS direct APIs to read snapshots:

@@ -1,3 +1,13 @@
+---
+title: "Use bookmarks"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Use bookmarks<a name="using-bookmarks"></a>
 
 If you have created a public AMI, or shared an AMI with another AWS account, you can create a *bookmark* that allows a user to access your AMI and launch an instance in their own account immediately\. This is an easy way to share AMI references, so users don't have to spend time finding your AMI in order to use it\.

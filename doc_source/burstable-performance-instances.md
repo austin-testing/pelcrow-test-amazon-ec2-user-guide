@@ -1,3 +1,13 @@
+---
+title: "Burstable performance instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization","Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Burstable performance instances<a name="burstable-performance-instances"></a>
 
 Many general purpose workloads are on average not busy, and do not require a high level of sustained CPU performance\. The following graph illustrates the CPU utilization for many common workloads that customers run in the AWS Cloud today\.

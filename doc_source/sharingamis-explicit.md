@@ -1,3 +1,13 @@
+---
+title: "Share an AMI with specific AWS accounts"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Share an AMI with specific AWS accounts<a name="sharingamis-explicit"></a>
 
 You can share an AMI with specific AWS accounts without making the AMI public\. All you need are the AWS account IDs\.

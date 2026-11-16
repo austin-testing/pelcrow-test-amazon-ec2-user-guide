@@ -1,3 +1,13 @@
+---
+title: "Authorize inbound traffic for your Linux instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Authorize inbound traffic for your Linux instances<a name="authorizing-access-to-an-instance"></a>
 
 Security groups enable you to control traffic to your instance, including the kind of traffic that can reach your instance\. For example, you can allow computers from only your home network to access your instance using SSH\. If your instance is a web server, you can allow all IP addresses to access your instance using HTTP or HTTPS, so that external users can browse the content on your web server\.

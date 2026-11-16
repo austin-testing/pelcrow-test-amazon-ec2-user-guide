@@ -1,3 +1,13 @@
+---
+title: "Activate NVIDIA GRID Virtual Applications"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Activate NVIDIA GRID Virtual Applications<a name="activate_grid"></a>
 
 To activate the GRID Virtual Applications on G3, G4dn, and G5 instances \(NVIDIA GRID Virtual Workstation is enabled by default\), you must define the product type for the driver in the `/etc/nvidia/gridd.conf` file\.

@@ -1,3 +1,13 @@
+---
+title: "Create Amazon EventBridge rules to monitor Spot Fleet events"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Scaling"]
+audience: ["DevOps Engineer"]
+platform: ["EC2"]
+---
+
 # Create Amazon EventBridge rules to monitor Spot Fleet events<a name="spot-fleet-using-eventbridge"></a>
 
 When a notification of a state change is emitted for a Spot Fleet, the event for the notification is sent to Amazon EventBridge in the form of a JSON file\. You can write an EventBridge rule to automate what actions to take when an event pattern matches the rule\. If EventBridge detects an event pattern that matches a pattern defined in a rule, EventBridge invokes the target \(or targets\) specified in the rule\.

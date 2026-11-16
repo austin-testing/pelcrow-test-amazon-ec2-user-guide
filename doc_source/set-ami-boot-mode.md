@@ -1,3 +1,13 @@
+---
+title: "Set the boot mode of an AMI"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","AMI"]
+---
+
 # Set the boot mode of an AMI<a name="set-ami-boot-mode"></a>
 
 When you create an AMI using the [https://docs.aws.amazon.com/cli/latest/reference/ec2/register-image.html](https://docs.aws.amazon.com/cli/latest/reference/ec2/register-image.html) command, you can set the boot mode of the AMI to either `uefi`, `legacy-bios`, or `uefi-preferred`\.

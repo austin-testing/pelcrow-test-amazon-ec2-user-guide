@@ -1,3 +1,13 @@
+---
+title: "Configure the Amazon Linux 2 MATE desktop connection"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Launch"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","AMI"]
+---
+
 # Configure the Amazon Linux 2 MATE desktop connection<a name="amazon-linux-ami-mate"></a>
 
 The [MATE desktop environment](https://mate-desktop.org/) is pre\-installed and pre\-configured in AMIs with the following description:

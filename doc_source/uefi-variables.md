@@ -1,3 +1,13 @@
+---
+title: "UEFI variables"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # UEFI variables<a name="uefi-variables"></a>
 
 When you launch an instance where the boot mode is set to UEFI, a key\-value store for variables is created\. The store can be used by UEFI and the instance operating system for storing UEFI variables\.

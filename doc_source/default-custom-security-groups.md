@@ -1,3 +1,13 @@
+---
+title: "Default and custom security groups"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Security","Performance Optimization"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Default and custom security groups<a name="default-custom-security-groups"></a>
 
 Your AWS account automatically has a default security group for the default VPC in each Region\. If you don't specify a security group when you launch an instance, the instance is automatically associated with the default security group for the VPC\. If you don't want your instances to use the default security group, you can create your own custom security groups and specify them when you launch your instances\.

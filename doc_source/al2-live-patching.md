@@ -1,3 +1,13 @@
+---
+title: "Kernel Live Patching on Amazon Linux 2"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Patching"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Systems Manager"]
+---
+
 # Kernel Live Patching on Amazon Linux 2<a name="al2-live-patching"></a>
 
 Kernel Live Patching for Amazon Linux 2 enables you to apply security vulnerability and critical bug patches to a running Linux kernel, without reboots or disruptions to running applications\. This allows you to benefit from improved service and application availability, while keeping your infrastructure secure and up to date\. 

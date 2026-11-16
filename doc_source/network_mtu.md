@@ -1,3 +1,13 @@
+---
+title: "Network maximum transmission unit (MTU) for your EC2 instance"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # Network maximum transmission unit \(MTU\) for your EC2 instance<a name="network_mtu"></a>
 
 The maximum transmission unit \(MTU\) of a network connection is the size, in bytes, of the largest permissible packet that can be passed over the connection\. The larger the MTU of a connection, the more data that can be passed in a single packet\. Ethernet frames consist of the packet, or the actual data you are sending, and the network overhead information that surrounds it\.

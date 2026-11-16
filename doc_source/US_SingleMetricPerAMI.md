@@ -1,3 +1,13 @@
+---
+title: "Aggregate statistics by AMI"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","AMI"]
+---
+
 # Aggregate statistics by AMI<a name="US_SingleMetricPerAMI"></a>
 
 You can aggregate statistics for your instances that have detailed monitoring enabled\. Instances that use basic monitoring are not included in the aggregates\. Before you can get statistics aggregated across instances, you must [enable detailed monitoring](using-cloudwatch-new.md#enable-detailed-monitoring) \(at an additional charge\), which provides data in 1\-minute periods\.

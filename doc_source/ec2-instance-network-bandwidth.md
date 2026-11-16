@@ -1,3 +1,13 @@
+---
+title: "Amazon EC2 instance network bandwidth"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # Amazon EC2 instance network bandwidth<a name="ec2-instance-network-bandwidth"></a>
 
 Instance bandwidth specifications apply to both inbound and outbound traffic for the instance\. For example, if an instance specifies up to 10 Gbps of bandwidth, that means is has up to 10 Gbps of bandwidth for inbound traffic, and 10 Gbps for outbound traffic\. The network bandwidth that's available to an EC2 instance depends on several factors, as follows\.

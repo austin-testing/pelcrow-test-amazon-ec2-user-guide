@@ -1,3 +1,13 @@
+---
+title: "Change the instance type"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # Change the instance type<a name="ec2-instance-resize"></a>
 
 As your needs change, you might find that your instance is over\-utilized \(the instance type is too small\) or under\-utilized \(the instance type is too large\)\. If this is the case, you can resize your instance by changing its instance type\. For example, if your `t2.micro` instance is too small for its workload, you can increase its size by changing it to a bigger T2 instance type, such as `t2.large`\. Or you can change it to another instance type, such as `m5.large`\. You might also want to change from a previous generation to a current generation instance type to take advantage of some features, such as support for IPv6\.

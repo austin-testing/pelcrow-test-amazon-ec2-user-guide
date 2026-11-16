@@ -1,3 +1,13 @@
+---
+title: "Concepts and terminology"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Evaluate"
+useCases: ["Getting Started","Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Concepts and terminology<a name="snp-concepts"></a>
 
 Before you begin using AMD SEV\-SNP, ensure that you are familiar with the following concepts and terminology\.

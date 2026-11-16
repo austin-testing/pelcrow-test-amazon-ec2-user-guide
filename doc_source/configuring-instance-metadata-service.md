@@ -1,3 +1,13 @@
+---
+title: "Use IMDSv2"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Use IMDSv2<a name="configuring-instance-metadata-service"></a>
 
 You can access instance metadata from a running instance using one of the following methods:

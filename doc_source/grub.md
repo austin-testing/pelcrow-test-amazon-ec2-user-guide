@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot your Linux instance using GRUB"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Troubleshoot your Linux instance using GRUB<a name="grub"></a>
 
 GNU GRUB \(short for GNU GRand Unified Bootloader, commonly referred to as GRUB\) is the default boot loader for most Linux operating systems\. From the GRUB menu, you can select which kernel to boot into, or modify menu entries to change how the kernel will boot\. This can be useful when troubleshooting a failing instance\.

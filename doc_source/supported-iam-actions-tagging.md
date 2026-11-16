@@ -1,3 +1,13 @@
+---
+title: "Grant permission to tag resources during creation"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2","IAM"]
+---
+
 # Grant permission to tag resources during creation<a name="supported-iam-actions-tagging"></a>
 
 Some resource\-creating Amazon EC2 API actions enable you to specify tags when you create the resource\. You can use resource tags to implement attribute\-based control \(ABAC\)\. For more information, see [Tag your resources](Using_Tags.md#tag-resources) and [Control access to EC2 resources using resource tags](control-access-with-tags.md)\.

@@ -1,3 +1,13 @@
+---
+title: "Reserved Instance quotas"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Plan"
+useCases: ["Cost Planning","Architecture Design"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Reserved Instance quotas<a name="ri-limits"></a>
 
 You can purchase new Reserved Instances each month\. The number of new Reserved Instances that you can purchase each month is determined by your monthly quota, as follows:

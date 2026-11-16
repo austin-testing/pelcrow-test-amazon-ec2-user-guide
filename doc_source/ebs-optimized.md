@@ -1,3 +1,13 @@
+---
+title: "Amazon EBS–optimized instances"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Amazon EBS–optimized instances<a name="ebs-optimized"></a>
 
 An Amazon EBS–optimized instance uses an optimized configuration stack and provides additional, dedicated capacity for Amazon EBS I/O\. This optimization provides the best performance for your EBS volumes by minimizing contention between Amazon EBS I/O and other traffic from your instance\.

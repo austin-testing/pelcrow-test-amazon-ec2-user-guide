@@ -1,3 +1,13 @@
+---
+title: "NitroTPM"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # NitroTPM<a name="nitrotpm"></a>
 
 Nitro Trusted Platform Module \(NitroTPM\) is a virtual device that is provided by the [AWS Nitro System](http://aws.amazon.com/ec2/nitro/) and conforms to the [TPM 2\.0 specification](https://trustedcomputinggroup.org/resource/trusted-platform-module-2-0-a-brief-introduction/)\. It securely stores artifacts \(such as passwords, certificates, or encryption keys\) that are used to authenticate the instance\. NitroTPM can generate keys and use them for cryptographic functions \(such as hashing, signing, encryption, and decryption\)\.

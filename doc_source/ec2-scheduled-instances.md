@@ -1,3 +1,13 @@
+---
+title: "Scheduled Reserved Instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Cost Planning","Architecture Design"]
+audience: ["Finance/Operations"]
+platform: ["EC2"]
+---
+
 # Scheduled Reserved Instances<a name="ec2-scheduled-instances"></a>
 
 With Scheduled Reserved Instances, you can reserve capacity that is scheduled to recur daily, weekly, or monthly, with a specified start time and duration, for a one\-year term\. After you complete your purchase, the instances are available to launch during the time windows that you specified\.

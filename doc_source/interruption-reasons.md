@@ -1,3 +1,13 @@
+---
+title: "Reasons for interruption"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Reasons for interruption<a name="interruption-reasons"></a>
 
 The following are the possible reasons that Amazon EC2 might interrupt your Spot Instances:

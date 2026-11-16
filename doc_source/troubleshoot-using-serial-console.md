@@ -1,3 +1,13 @@
+---
+title: "Troubleshoot your Linux instance using the EC2 Serial Console"
+owner: "Austin Rappa"
+type: "troubleshooting"
+journeyStage: "Maintain"
+useCases: ["Monitoring"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Troubleshoot your Linux instance using the EC2 Serial Console<a name="troubleshoot-using-serial-console"></a>
 
 By using EC2 Serial Console, you can troubleshoot boot, network configuration, and other issues by connecting to your instance's serial port\.

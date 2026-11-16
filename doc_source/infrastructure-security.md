@@ -1,3 +1,13 @@
+---
+title: "Infrastructure security in Amazon EC2"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Security"]
+audience: ["Security Architect"]
+platform: ["EC2"]
+---
+
 # Infrastructure security in Amazon EC2<a name="infrastructure-security"></a>
 
 You use AWS published API calls to access Amazon EC2 through the network\. Clients must support Transport Layer Security \(TLS\) 1\.1 or later\. [Clients must support TLS 1\.2 or later by June 28, 2023](https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/)\. Clients must also support cipher suites with perfect forward secrecy \(PFS\) such as Ephemeral Diffie\-Hellman \(DHE\) or Elliptic Curve Ephemeral Diffie\-Hellman \(ECDHE\)\. Most modern systems such as Java 7 and later support these modes\.

@@ -1,3 +1,13 @@
+---
+title: "Replace a root volume"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Replace a root volume<a name="replace-root"></a>
 
 Amazon EC2 enables you to replace the root Amazon EBS volume for a **running** instance while retaining the following:

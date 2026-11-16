@@ -1,3 +1,13 @@
+---
+title: "Work with burstable performance instances"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # Work with burstable performance instances<a name="burstable-performance-instances-how-to"></a>
 
 The steps for launching, monitoring, and modifying these instances are similar\. The key difference is the default credit specification when they launch\.

@@ -1,3 +1,13 @@
+---
+title: "On-Demand Instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2"]
+---
+
 # On\-Demand Instances<a name="ec2-on-demand-instances"></a>
 
 With On\-Demand Instances, you pay for compute capacity by the second with no long\-term commitments\. You have full control over the instance's lifecycle—you decide when to launch, stop, hibernate, start, reboot, or terminate it\.

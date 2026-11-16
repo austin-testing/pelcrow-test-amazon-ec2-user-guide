@@ -1,3 +1,13 @@
+---
+title: "Automate AMI lifecycles"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","AMI"]
+---
+
 # Automate AMI lifecycles<a name="ami-policy"></a>
 
 The following procedure shows you how to use Amazon Data Lifecycle Manager to automate EBS\-backed AMI lifecycles\.

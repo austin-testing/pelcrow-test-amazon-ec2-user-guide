@@ -1,3 +1,13 @@
+---
+title: "Monitor an EFA"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Monitoring","Performance Optimization"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # Monitor an EFA<a name="efa-working-monitor"></a>
 
 You can use the following features to monitor the performance of your Elastic Fabric Adapters\.

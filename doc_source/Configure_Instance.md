@@ -1,3 +1,13 @@
+---
+title: "Configure your Amazon Linux instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Configure your Amazon Linux instance<a name="Configure_Instance"></a>
 
 After you have successfully launched and logged into your Amazon Linux instance, you can make changes to it\. There are many different ways you can configure an instance to meet the needs of a specific application\. The following are some common tasks to help get you started\.

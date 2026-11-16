@@ -1,3 +1,13 @@
+---
+title: "Create Amazon EBS snapshots"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Create Amazon EBS snapshots<a name="ebs-creating-snapshot"></a>
 
 You can create a point\-in\-time snapshot of an EBS volume and use it as a baseline for new volumes or for data backup\. If you make periodic snapshots of a volume, the snapshots are incremental—the new snapshot saves only the blocks that have changed since your last snapshot\.

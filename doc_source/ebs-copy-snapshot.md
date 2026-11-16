@@ -1,3 +1,13 @@
+---
+title: "Copy an Amazon EBS snapshot"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Copy an Amazon EBS snapshot<a name="ebs-copy-snapshot"></a>
 
 With Amazon EBS, you can create point\-in\-time snapshots of volumes, which we store for you in Amazon S3\. After you create a snapshot and it has finished copying to Amazon S3 \(when the snapshot status is `completed`\), you can copy it from one AWS Region to another, or within the same Region\. Amazon S3 server\-side encryption \(256\-bit AES\) protects a snapshot's data in transit during a copy operation\. The snapshot copy receives an ID that is different from the ID of the original snapshot\.

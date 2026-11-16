@@ -1,3 +1,13 @@
+---
+title: "Capacity Reservations in cluster placement groups"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Networking"]
+---
+
 # Capacity Reservations in cluster placement groups<a name="cr-cpg"></a>
 
 You can create Capacity Reservations in a cluster placement group to reserve Amazon EC2 compute capacity for your workloads\. Cluster placement groups offer the benefit of low network latency and high network throughput\.

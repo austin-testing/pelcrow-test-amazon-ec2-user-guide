@@ -1,3 +1,13 @@
+---
+title: "View the CPU options for your instance"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2"]
+---
+
 # View the CPU options for your instance<a name="view-cpu-options"></a>
 
 You can view the CPU options for an existing instance in the Amazon EC2 console or by describing the instance using the AWS CLI\.

@@ -1,3 +1,13 @@
+---
+title: "AMI lifecycle"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Automation"]
+audience: ["DevOps Engineer"]
+platform: ["EC2","AMI"]
+---
+
 # AMI lifecycle<a name="ami-lifecycle"></a>
 
 You can create your own AMIs, copy them, back them up, and maintain them until you are ready to deprecate or deregister them\.

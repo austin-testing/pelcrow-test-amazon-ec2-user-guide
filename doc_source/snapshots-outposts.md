@@ -1,3 +1,13 @@
+---
+title: "Amazon EBS local snapshots on Outposts"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Maintain"
+useCases: ["Disaster Recovery"]
+audience: ["System Administrator"]
+platform: ["EC2","Storage"]
+---
+
 # Amazon EBS local snapshots on Outposts<a name="snapshots-outposts"></a>
 
 Amazon EBS snapshots are a point\-in\-time copy of your EBS volumes\.

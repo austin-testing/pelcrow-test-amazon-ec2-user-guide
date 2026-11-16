@@ -1,3 +1,13 @@
+---
+title: "Access Amazon EC2 using an interface VPC endpoint"
+owner: "Austin Rappa"
+type: "reference"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Networking"]
+---
+
 # Access Amazon EC2 using an interface VPC endpoint<a name="interface-vpc-endpoints"></a>
 
 You can improve the security posture of your VPC by creating a private connection between your VPC and Amazon EC2\. You can access Amazon EC2 as if it were in your VPC, without the use of an internet gateway, NAT device, VPN connection, or AWS Direct Connect connection\. Instances in your VPC don't need public IP addresses to access Amazon EC2\.

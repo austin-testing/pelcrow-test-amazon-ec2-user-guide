@@ -1,3 +1,13 @@
+---
+title: "Elastic IP addresses"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux","Networking"]
+---
+
 # Elastic IP addresses<a name="elastic-ip-addresses-eip"></a>
 
 An *Elastic IP address* is a static IPv4 address designed for dynamic cloud computing\. An Elastic IP address is allocated to your AWS account, and is yours until you release it\. By using an Elastic IP address, you can mask the failure of an instance or software by rapidly remapping the address to another instance in your account\. Alternatively, you can specify the Elastic IP address in a DNS record for your domain, so that your domain points to your instance\. For more information, see the documentation for your domain registrar, or [Set up dynamic DNS on your Amazon Linux instance](dynamic-dns.md)\.

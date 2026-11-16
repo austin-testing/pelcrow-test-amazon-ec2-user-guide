@@ -1,3 +1,13 @@
+---
+title: "Share an Amazon EBS snapshot"
+owner: "Austin Rappa"
+type: "task"
+journeyStage: "Maintain"
+useCases: ["Security","Disaster Recovery"]
+audience: ["Security Architect"]
+platform: ["EC2","Storage","IAM"]
+---
+
 # Share an Amazon EBS snapshot<a name="ebs-modifying-snapshot-permissions"></a>
 
 You can modify the permissions of a snapshot if you want to share it with other AWS accounts\. You can share snapshots publicly with all other AWS accounts, or you can share them privately with individual AWS accounts that you specify\. Users that you have authorized can use the snapshots that you share to create their own EBS volumes, while your original snapshot remains unaffected\.

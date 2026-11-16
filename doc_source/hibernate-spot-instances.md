@@ -1,3 +1,13 @@
+---
+title: "Hibernate interrupted Spot Instances"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Plan"
+useCases: ["Architecture Design"]
+audience: ["Solutions Architect"]
+platform: ["EC2","Linux"]
+---
+
 # Hibernate interrupted Spot Instances<a name="hibernate-spot-instances"></a>
 
 You can specify that Amazon EC2 hibernates your Spot Instances when they are interrupted\. For more information, see [Specify the interruption behavior](interruption-behavior.md#specifying-spot-interruption-behavior)\.

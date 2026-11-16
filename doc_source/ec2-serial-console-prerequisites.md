@@ -1,3 +1,13 @@
+---
+title: "Prerequisites"
+owner: "Austin Rappa"
+type: "concept"
+journeyStage: "Build"
+useCases: ["Configure"]
+audience: ["System Administrator"]
+platform: ["EC2","Linux"]
+---
+
 # Prerequisites<a name="ec2-serial-console-prerequisites"></a>
 
 **Topics**
